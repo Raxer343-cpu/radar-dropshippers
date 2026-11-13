@@ -1,0 +1,102 @@
+{
+ "dominio": "clepa.shop",
+ "fecha": "2026-11-13",
+ "productos": [
+  {
+   "id": 7181945176099,
+   "titulo": "SHORT LEVANTA COLA DE BROCHES",
+   "handle": "short-levanta-cola-copia",
+   "precio": 135000.0,
+   "disponible": true,
+   "creado": "2025-12-19",
+   "publicado": "2025-12-19",
+   "actualizado": "2026-11-13",
+   "tipo": "Salud",
+   "imagen": "https://cdn.shopify.com/s/files/1/0703/0145/0275/files/7bed2a10-ee97-4968-a2fb-16876e13c142.jpg"
+  },
+  {
+   "id": 7034057359395,
+   "titulo": "SHORT LEVANTA COLA",
+   "handle": "short-levanta-cola",
+   "precio": 120000.0,
+   "disponible": true,
+   "creado": "2024-08-08",
+   "publicado": "2024-09-16",
+   "actualizado": "2026-11-13",
+   "tipo": "Salud",
+   "imagen": "https://cdn.shopify.com/s/files/1/0703/0145/0275/files/Mesadetrabajo7copia6.webp"
+  },
+  {
+   "id": 7033054461987,
+   "titulo": "CHALECO REDUCTOR TÉRMICO EN LÁTEX 4 NIVELES",
+   "handle": "chaleco-reductor-termico-latex",
+   "precio": 135000.0,
+   "disponible": true,
+   "creado": "2024-08-05",
+   "publicado": "2024-09-05",
+   "actualizado": "2026-11-13",
+   "tipo": "Salud",
+   "imagen": "https://cdn.shopify.com/s/files/1/0703/0145/0275/files/4A_51e4b68c-424d-4dee-8faa-81e537b8c539.jpg"
+  },
+  {
+   "id": 7042798452771,
+   "titulo": "FAJA REDUCTORA TIPO TIRA BRASIER",
+   "handle": "faja-reductora-tipo-tira-brasier",
+   "precio": 115000.0,
+   "disponible": false,
+   "creado": "2024-09-05",
+   "publicado": "2024-09-05",
+   "actualizado": "2026-11-13",
+   "tipo": "",
+   "imagen": "https://cdn.shopify.com/s/files/1/0703/0145/0275/files/Mesadetrabajo7_46ebe107-6294-43e6-8ca9-fb308b34f5b1.png"
+  },
+  {
+   "id": 7035434237987,
+   "titulo": "GEL MOLDEADOR REDUCTOR FRÍO",
+   "handle": "gel-moldeador-frio-corps-1",
+   "precio": 88000.0,
+   "disponible": true,
+   "creado": "2024-08-11",
+   "publicado": "2024-08-11",
+   "actualizado": "2026-11-13",
+   "tipo": "Salud",
+   "imagen": "https://cdn.shopify.com/s/files/1/0703/0145/0275/files/1722878526sin-titulo-1722816200-fajas-pa-ellas-1017389017_2ce019b8-8a6c-4edb-a220-c87b2f601a5b.jpg"
+  },
+  {
+   "id": 7035272036387,
+   "titulo": "CINTURILLA EXTREMA RELOJ DE ARENA 15 VARILLAS",
+   "handle": "cinturilla-moldeadora-reloj-de-rena",
+   "precio": 140000.0,
+   "disponible": true,
+   "creado": "2024-08-09",
+   "publicado": "2024-08-09",
+   "actualizado": "2026-11-13",
+   "tipo": "Salud",
+   "imagen": "https://cdn.shopify.com/s/files/1/0703/0145/0275/files/89e26fc4-fb07-4d1e-bf51-3e5bc3836541.jpg"
+  },
+  {
+   "id": 7033213681699,
+   "titulo": "CHALECO EXTREMO RELOJ DE ARENA 13 VARILLAS",
+   "handle": "chaleco-reloj-de-arena",
+   "precio": 155000.0,
+   "disponible": true,
+   "creado": "2024-08-05",
+   "publicado": "2024-08-05",
+   "actualizado": "2026-11-13",
+   "tipo": "Salud",
+   "imagen": "https://cdn.shopify.com/s/files/1/0703/0145/0275/files/Mesa_de_trabajo_3.png"
+  },
+  {
+   "id": 7032458838051,
+   "titulo": "CINTURILLA REDUCTORA TÉRMICA EN LÁTEX 4 NIVELES",
+   "handle": "faja-chaleco",
+   "precio": 120000.0,
+   "disponible": true,
+   "creado": "2024-08-02",
+   "publicado": "2024-08-02",
+   "actualizado": "2026-11-13",
+   "tipo": "Salud",
+   "imagen": "https://cdn.shopify.com/s/files/1/0703/0145/0275/files/Mesadetrabajo7copia.png"
+  }
+ ]
+}
