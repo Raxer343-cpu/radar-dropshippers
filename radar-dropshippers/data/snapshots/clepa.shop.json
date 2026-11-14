@@ -1,6 +1,6 @@
 {
  "dominio": "clepa.shop",
- "fecha": "2026-11-13",
+ "fecha": "2026-11-14",
  "productos": [
   {
    "id": 7181945176099,
@@ -10,7 +10,7 @@
    "disponible": true,
    "creado": "2025-12-19",
    "publicado": "2025-12-19",
-   "actualizado": "2026-11-13",
+   "actualizado": "2026-11-14",
    "tipo": "Salud",
    "imagen": "https://cdn.shopify.com/s/files/1/0703/0145/0275/files/7bed2a10-ee97-4968-a2fb-16876e13c142.jpg"
   },
@@ -22,7 +22,7 @@
    "disponible": true,
    "creado": "2024-08-08",
    "publicado": "2024-09-16",
-   "actualizado": "2026-11-13",
+   "actualizado": "2026-11-14",
    "tipo": "Salud",
    "imagen": "https://cdn.shopify.com/s/files/1/0703/0145/0275/files/Mesadetrabajo7copia6.webp"
   },
@@ -34,7 +34,7 @@
    "disponible": true,
    "creado": "2024-08-05",
    "publicado": "2024-09-05",
-   "actualizado": "2026-11-13",
+   "actualizado": "2026-11-14",
    "tipo": "Salud",
    "imagen": "https://cdn.shopify.com/s/files/1/0703/0145/0275/files/4A_51e4b68c-424d-4dee-8faa-81e537b8c539.jpg"
   },
@@ -46,7 +46,7 @@
    "disponible": false,
    "creado": "2024-09-05",
    "publicado": "2024-09-05",
-   "actualizado": "2026-11-13",
+   "actualizado": "2026-11-14",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0703/0145/0275/files/Mesadetrabajo7_46ebe107-6294-43e6-8ca9-fb308b34f5b1.png"
   },
@@ -58,7 +58,7 @@
    "disponible": true,
    "creado": "2024-08-11",
    "publicado": "2024-08-11",
-   "actualizado": "2026-11-13",
+   "actualizado": "2026-11-14",
    "tipo": "Salud",
    "imagen": "https://cdn.shopify.com/s/files/1/0703/0145/0275/files/1722878526sin-titulo-1722816200-fajas-pa-ellas-1017389017_2ce019b8-8a6c-4edb-a220-c87b2f601a5b.jpg"
   },
@@ -70,7 +70,7 @@
    "disponible": true,
    "creado": "2024-08-09",
    "publicado": "2024-08-09",
-   "actualizado": "2026-11-13",
+   "actualizado": "2026-11-14",
    "tipo": "Salud",
    "imagen": "https://cdn.shopify.com/s/files/1/0703/0145/0275/files/89e26fc4-fb07-4d1e-bf51-3e5bc3836541.jpg"
   },
@@ -82,7 +82,7 @@
    "disponible": true,
    "creado": "2024-08-05",
    "publicado": "2024-08-05",
-   "actualizado": "2026-11-13",
+   "actualizado": "2026-11-14",
    "tipo": "Salud",
    "imagen": "https://cdn.shopify.com/s/files/1/0703/0145/0275/files/Mesa_de_trabajo_3.png"
   },
@@ -94,7 +94,7 @@
    "disponible": true,
    "creado": "2024-08-02",
    "publicado": "2024-08-02",
-   "actualizado": "2026-11-13",
+   "actualizado": "2026-11-14",
    "tipo": "Salud",
    "imagen": "https://cdn.shopify.com/s/files/1/0703/0145/0275/files/Mesadetrabajo7copia.png"
   }
