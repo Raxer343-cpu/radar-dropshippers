@@ -1,32 +1,32 @@
-# Radar de tiendas · 2026-11-17
+# Radar de tiendas · 2026-11-18
 
 | Tienda | Nombre | Estado | Productos | Cambios hoy |
 |---|---|---|---|---|
-| c6ac4e.myshopify.com | Sowi | ok | 30 | 0 |
+| c6ac4e.myshopify.com | Sowi | ok | 29 | 1 |
 | allpremiumstores.com | All Premium Store | ok | 230 | 0 |
-| luxxojoyeria.com | LUXXO JOYAS | ok | 298 | 4 |
+| luxxojoyeria.com | LUXXO JOYAS | ok | 298 | 0 |
 | clepa.shop | Fajas Nanix | ok | 8 | 0 |
 | calzadofersa.online | Calzado FERSA | ok | 17 | 0 |
-| pagocuandorecibo.com | Pago cuando recibo | ok | 60 | 0 |
+| pagocuandorecibo.com | Pago cuando recibo | ok | 59 | 1 |
 | serenivida.co | SereniVida Co | ok | 19 | 0 |
 | rstoretienda.com | Rstore Tienda | ok | 9 | 0 |
 | toolhousecol.com | ToolHouse | ok | 29 | 0 |
-| lamejorrcompra.store | Bravela | ok | 275 | 6 |
-| e-shopcolombia.co | E-Shop | ok | 80 | 2 |
+| lamejorrcompra.store | Bravela | ok | 275 | 10 |
+| e-shopcolombia.co | E-Shop | ok | 80 | 0 |
 
 ## Cambios de hoy
 
 | Tienda | Tipo | Producto | Antes | Ahora |
 |---|---|---|---|---|
-| luxxojoyeria.com | nuevo | Cadena Átomo Mujer 1 mm |  | 97425.0 |
-| luxxojoyeria.com | retirado | Cadena Aros Niños | 119925.0 |  |
-| luxxojoyeria.com | retirado | Combo Aros Mujer | 142425.0 |  |
-| luxxojoyeria.com | retirado | Cadena Aros Mujer | 119925.0 |  |
-| lamejorrcompra.store | nuevo | Tapas Silicona Ajustables x 6 Unidades - Conserva Tus alimen |  | 14900.0 |
-| lamejorrcompra.store | precio | Llave Mágica 4 en 1 (+ 3 Adaptadores): Repara Cualquier Fuga | 50000.0 | 104900.0 |
-| lamejorrcompra.store | reactivado | Llave Mágica 4 en 1 (+ 3 Adaptadores): Repara Cualquier Fuga |  | 104900.0 |
-| lamejorrcompra.store | precio | Mini Cepillo Inalámbrico 4 en 1: Tu salón de belleza portáti | 40000.0 | 89900.0 |
-| lamejorrcompra.store | reactivado | Mini Cepillo Inalámbrico 4 en 1: Tu salón de belleza portáti |  | 89900.0 |
-| lamejorrcompra.store | precio | Organizador zapatero 10 niveles | 127900.0 | 117900.0 |
-| e-shopcolombia.co | precio | Drone E88 pro max plegable +2 baterias | 124000.0 | 150000.0 |
-| e-shopcolombia.co | reactivado | Drone E88 pro max plegable +2 baterias |  | 150000.0 |
+| c6ac4e.myshopify.com | retirado | 🚀 Combo 5 en 1 : Mochila  + Termo LED  + Audífonos F9 +Reloj | 139000.0 |  |
+| pagocuandorecibo.com | retirado | Kit Taladro Brushless 35 Posiciones de Torque – Azul | 189900.0 |  |
+| lamejorrcompra.store | precio | Lápiz 3D Inalámbrico: Menos Pantallas, Más Infancia y Creati | 33500.0 | 89900.0 |
+| lamejorrcompra.store | reactivado | Lápiz 3D Inalámbrico: Menos Pantallas, Más Infancia y Creati |  | 89900.0 |
+| lamejorrcompra.store | precio | RizaLash® Pestañas perfectas en segundos-Rizo natural y dura | 79900.0 | 69900.0 |
+| lamejorrcompra.store | precio | Ondulador Mágico Inalámbrico: Ondas Divinas en Minutos (¡Sin | 117900.0 | 107900.0 |
+| lamejorrcompra.store | precio | Soportes Antivibración para Lavadora: Dile adiós al escándal | 77900.0 | 69900.0 |
+| lamejorrcompra.store | precio | Paquete de 4 Agarraderas para Sábanas: Tu cama siempre templ | 89900.0 | 69900.0 |
+| lamejorrcompra.store | precio | Recortadora Inalámbrica Con Ruedas 3 en 1: Máxima Potencia,  | 149900.0 | 159900.0 |
+| lamejorrcompra.store | precio | Escurridor de Platos Premium 2 Niveles: Secado Automático, C | 119900.0 | 129900.0 |
+| lamejorrcompra.store | precio | PICADOR DE FRUTAS Y VERDURAS MULTIFUNCIONAL 16 EN 1 | 94900.0 | 79900.0 |
+| lamejorrcompra.store | precio | ADAPTADOR DE CORTE PROFESIONAL PARA TALADRO | 89900.0 | 79900.0 |
