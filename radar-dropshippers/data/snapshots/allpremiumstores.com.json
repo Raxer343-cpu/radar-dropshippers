@@ -1,7 +1,55 @@
 {
  "dominio": "allpremiumstores.com",
- "fecha": "2026-11-19",
+ "fecha": "2026-11-20",
  "productos": [
+  {
+   "id": 10912361152817,
+   "titulo": "Lavadora Portátil Lava Fácil y Sin Esfuerzo Práctica, Compacta y Recargable",
+   "handle": "mini-lavadora-portatil-mc-116",
+   "precio": 89700.0,
+   "disponible": true,
+   "creado": "2026-10-28",
+   "publicado": "2026-11-19",
+   "actualizado": "2026-11-20",
+   "tipo": "Hogar",
+   "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img17_12fff598-5eab-4073-b175-d2f03892eb01.jpg"
+  },
+  {
+   "id": 10912059195697,
+   "titulo": "Set Confort Total Moto - 2 Cojines Acolchados Piloto + Parrillero - Anti-Huecos y Anti-Calor",
+   "handle": "kit-confort-total-moto-2-cojines-acolchados-piloto-parrillero-anti-huecos-y-anti-calor",
+   "precio": 89700.0,
+   "disponible": true,
+   "creado": "2026-10-28",
+   "publicado": "2026-11-19",
+   "actualizado": "2026-11-20",
+   "tipo": "Vehículos",
+   "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_ac185536-d9d7-4721-9322-45aab0312bd8.avif"
+  },
+  {
+   "id": 10914743419185,
+   "titulo": "Mueble Organizador para Baño con Dispensador",
+   "handle": "organizador-angosto-para-bano-con-dispensador",
+   "precio": 99700.0,
+   "disponible": true,
+   "creado": "2026-10-29",
+   "publicado": "2026-11-19",
+   "actualizado": "2026-11-20",
+   "tipo": "Hogar",
+   "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_c481c486-01c8-4efd-9681-6e1b820b01dc.avif"
+  },
+  {
+   "id": 10914779562289,
+   "titulo": "Cojín Elevador para Reposabrazos con Portavasos y Organizador",
+   "handle": "cojin-elevador-para-reposabrazos-con-portavasos-y-organizador",
+   "precio": 99700.0,
+   "disponible": true,
+   "creado": "2026-10-29",
+   "publicado": "2026-11-19",
+   "actualizado": "2026-11-20",
+   "tipo": "Vehículos",
+   "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img5_f981b89d-a260-43ed-a81d-7fa9ae703513.avif"
+  },
   {
    "id": 10907723104561,
    "titulo": "Cortina de Luces LED Lluvia de Meteoritos",
@@ -10,7 +58,7 @@
    "disponible": true,
    "creado": "2026-10-27",
    "publicado": "2026-10-28",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_2c3a3d1b-c4d2-4994-9d9d-51f43516ad65.png"
   },
@@ -18,11 +66,11 @@
    "id": 10887788724529,
    "titulo": "Set 2 x 1 Lámparas Medusa Solar LED para Jardín – Jardín Mágico 66cm",
    "handle": "lampara-solar-medusa-jardin-magico-66cm",
-   "precio": 89700.0,
+   "precio": 99700.0,
    "disponible": true,
    "creado": "2026-10-16",
    "publicado": "2026-10-26",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Navidad",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img8_26345d54-a251-4f9f-8661-1e68665fa0fb.jpg"
   },
@@ -34,7 +82,7 @@
    "disponible": true,
    "creado": "2026-10-16",
    "publicado": "2026-10-19",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_99f18f16-4267-4747-a29a-9dffd60a3ecd.avif"
   },
@@ -46,7 +94,7 @@
    "disponible": true,
    "creado": "2026-10-19",
    "publicado": "2026-10-19",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img6_5b515b90-63f8-4a37-9fc6-cb68d4fe5fdc.avif"
   },
@@ -58,7 +106,7 @@
    "disponible": true,
    "creado": "2026-09-29",
    "publicado": "2026-10-14",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Cocina",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img6_b11105ff-452e-4609-81f6-19f9cd0e639f.avif"
   },
@@ -70,7 +118,7 @@
    "disponible": true,
    "creado": "2026-09-29",
    "publicado": "2026-10-14",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1-2.jpg"
   },
@@ -82,7 +130,7 @@
    "disponible": true,
    "creado": "2026-09-25",
    "publicado": "2026-09-26",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Vehículos",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img3_ba4d8ae4-59f3-4a1b-a75e-ca680c4a1fc4.png"
   },
@@ -94,7 +142,7 @@
    "disponible": true,
    "creado": "2026-09-25",
    "publicado": "2026-09-25",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img12_8efd588c-0c5d-4a9a-8e21-704ce96e48e8.png"
   },
@@ -106,7 +154,7 @@
    "disponible": true,
    "creado": "2026-09-24",
    "publicado": "2026-09-25",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img9_54baa3ac-4ff0-4974-af56-7ff29065e093.avif"
   },
@@ -118,7 +166,7 @@
    "disponible": true,
    "creado": "2026-09-24",
    "publicado": "2026-09-25",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img15_eaac0a84-bbf3-4abe-9728-2d1ce79bea07.jpg"
   },
@@ -130,7 +178,7 @@
    "disponible": true,
    "creado": "2026-09-15",
    "publicado": "2026-09-17",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img4_d9cda449-35fc-4929-97bf-daa3b8324b68.png"
   },
@@ -142,7 +190,7 @@
    "disponible": true,
    "creado": "2026-09-16",
    "publicado": "2026-09-17",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img14_519d8214-c703-4037-baad-04a1c4c7857b.png"
   },
@@ -154,7 +202,7 @@
    "disponible": true,
    "creado": "2026-09-15",
    "publicado": "2026-09-17",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Vehículos",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img4_817e1e01-4580-4cfc-b385-73d4c4db76a4.avif"
   },
@@ -166,7 +214,7 @@
    "disponible": true,
    "creado": "2026-09-16",
    "publicado": "2026-09-16",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Vehículos",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img11_b866c5ee-5354-4254-b21d-849fdf9c10ac.jpg"
   },
@@ -178,7 +226,7 @@
    "disponible": true,
    "creado": "2026-09-11",
    "publicado": "2026-09-15",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img8_0b3ffc9e-1147-4964-a530-4ccaebf40c60.png"
   },
@@ -190,7 +238,7 @@
    "disponible": true,
    "creado": "2026-09-09",
    "publicado": "2026-09-14",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img11_a208a86e-e05d-4ddb-8ca6-91656365660a.png"
   },
@@ -202,7 +250,7 @@
    "disponible": true,
    "creado": "2026-08-27",
    "publicado": "2026-08-27",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img9_8e7d99c6-c61c-4b80-8a32-2fe5eba95e1e.png"
   },
@@ -214,7 +262,7 @@
    "disponible": true,
    "creado": "2026-08-26",
    "publicado": "2026-08-27",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img3_2dc2e4e9-aaa5-4242-bd2d-eb9fa9d6dc75.png"
   },
@@ -226,7 +274,7 @@
    "disponible": true,
    "creado": "2026-08-26",
    "publicado": "2026-08-27",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_3561a7b7-3da4-4b3f-ab9d-efb86bdb127b.avif"
   },
@@ -238,7 +286,7 @@
    "disponible": true,
    "creado": "2026-08-26",
    "publicado": "2026-08-27",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_059a8b80-0485-4dde-83e8-728ba67f5854.png"
   },
@@ -250,7 +298,7 @@
    "disponible": true,
    "creado": "2026-08-10",
    "publicado": "2026-08-15",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Cocina",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img11_c36513d8-11bf-4bb0-855f-d7d5af5c68ab.avif"
   },
@@ -262,7 +310,7 @@
    "disponible": true,
    "creado": "2026-08-10",
    "publicado": "2026-08-15",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Tecnologia",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img7_baa3f2c2-1320-4497-bd4e-d78f8efb257c.avif"
   },
@@ -274,7 +322,7 @@
    "disponible": false,
    "creado": "2026-08-07",
    "publicado": "2026-08-07",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img7_83cc14e8-099b-48f6-a7d3-d65008892c35.avif"
   },
@@ -286,7 +334,7 @@
    "disponible": true,
    "creado": "2026-08-07",
    "publicado": "2026-08-07",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img10_2666b958-bda8-472d-abca-9ae81eda7dee.png"
   },
@@ -298,7 +346,7 @@
    "disponible": true,
    "creado": "2026-07-23",
    "publicado": "2026-07-29",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Navidad",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_70db377b-0a56-40ba-b7e8-6b66992a8784.avif"
   },
@@ -310,7 +358,7 @@
    "disponible": true,
    "creado": "2026-07-22",
    "publicado": "2026-07-22",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Cocina",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_8073583e-44af-4c48-a85f-da99f52af700.avif"
   },
@@ -322,7 +370,7 @@
    "disponible": true,
    "creado": "2026-07-22",
    "publicado": "2026-07-22",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Cocina",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img5_dc706c15-e667-4cb7-a769-47e47b0c7ec8.webp"
   },
@@ -334,7 +382,7 @@
    "disponible": true,
    "creado": "2026-07-22",
    "publicado": "2026-07-22",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Vehículos",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img10_4856fc31-8691-4bbd-9ea7-a1c938de3463.avif"
   },
@@ -346,7 +394,7 @@
    "disponible": true,
    "creado": "2026-07-18",
    "publicado": "2026-07-22",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/RELAX-COLORES-2.jpg"
   },
@@ -358,7 +406,7 @@
    "disponible": true,
    "creado": "2026-07-18",
    "publicado": "2026-07-22",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_593564b9-2dec-450d-ab78-bd1401d333a3.avif"
   },
@@ -370,7 +418,7 @@
    "disponible": true,
    "creado": "2026-07-18",
    "publicado": "2026-07-22",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_0787b20f-ab3a-4791-b450-898dc1ae7caa.avif"
   },
@@ -382,7 +430,7 @@
    "disponible": true,
    "creado": "2026-07-18",
    "publicado": "2026-07-22",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img2_5f17ef9b-0375-425b-8f54-44600597cea5.avif"
   },
@@ -394,7 +442,7 @@
    "disponible": true,
    "creado": "2026-07-10",
    "publicado": "2026-07-15",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Bienestar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img10_8de1fda4-7603-4882-b5e3-d295a39e1561.avif"
   },
@@ -406,7 +454,7 @@
    "disponible": true,
    "creado": "2026-07-14",
    "publicado": "2026-07-15",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img7_09b87a5e-419e-4c34-89d6-59dc34908dd9.avif"
   },
@@ -418,7 +466,7 @@
    "disponible": true,
    "creado": "2026-07-14",
    "publicado": "2026-07-15",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img4_b5aa987e-7e7c-4e11-bef9-383e692b2c0c.avif"
   },
@@ -430,7 +478,7 @@
    "disponible": true,
    "creado": "2026-06-26",
    "publicado": "2026-06-28",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img2_c4e7c9d4-d300-46f5-8b19-c6d313094322.avif"
   },
@@ -442,7 +490,7 @@
    "disponible": true,
    "creado": "2026-06-26",
    "publicado": "2026-06-28",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_16a2f54f-1d42-4d0a-b021-052c6908eaea.png"
   },
@@ -454,7 +502,7 @@
    "disponible": true,
    "creado": "2026-06-26",
    "publicado": "2026-06-28",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Otro",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img10_9ef2420a-dadf-4a67-aba4-96c176c21505.jpg"
   },
@@ -466,7 +514,7 @@
    "disponible": true,
    "creado": "2026-06-25",
    "publicado": "2026-06-26",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Cocina",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_9794b759-b442-4ee6-8523-6f63af50ec26.avif"
   },
@@ -478,7 +526,7 @@
    "disponible": true,
    "creado": "2026-06-24",
    "publicado": "2026-06-26",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Otro",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_6daaf61a-70d5-42a9-a3a9-225287ef4800.avif"
   },
@@ -490,7 +538,7 @@
    "disponible": true,
    "creado": "2026-06-17",
    "publicado": "2026-06-17",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Vehículos",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img4_4c225c19-a245-4fe7-aa0c-bbae02a8f23c.webp"
   },
@@ -502,7 +550,7 @@
    "disponible": true,
    "creado": "2026-06-17",
    "publicado": "2026-06-17",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img3_ac63abd7-5b27-4f43-bd17-34cd0a7b5af7.webp"
   },
@@ -514,7 +562,7 @@
    "disponible": true,
    "creado": "2026-06-16",
    "publicado": "2026-06-16",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_464bbeb4-86ea-401d-a1b8-f66d7629101c.png"
   },
@@ -526,7 +574,7 @@
    "disponible": true,
    "creado": "2026-06-16",
    "publicado": "2026-06-16",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Otro",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img13_0179dfce-9788-4676-90a9-58dfed9d1a44.avif"
   },
@@ -538,7 +586,7 @@
    "disponible": true,
    "creado": "2026-06-10",
    "publicado": "2026-06-10",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Otro",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_47e2dd68-c119-402d-89ac-6397a0451b17.avif"
   },
@@ -550,7 +598,7 @@
    "disponible": true,
    "creado": "2026-05-28",
    "publicado": "2026-05-28",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Tecnologia",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img3_04c3f001-8ad1-4395-8b05-825fb1372475.avif"
   },
@@ -562,7 +610,7 @@
    "disponible": true,
    "creado": "2026-05-28",
    "publicado": "2026-05-28",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img2_9abaa819-b638-4f80-bfc1-3e2eec94d060.avif"
   },
@@ -574,7 +622,7 @@
    "disponible": true,
    "creado": "2026-05-21",
    "publicado": "2026-05-22",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img3_b4318cc8-b838-4499-ada6-1a16dc6c29bb.jpg"
   },
@@ -586,7 +634,7 @@
    "disponible": true,
    "creado": "2026-05-21",
    "publicado": "2026-05-22",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "AUTOMÓVIL",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_e21ffe17-7a20-4bc1-b3b1-e4030f39d711.png"
   },
@@ -598,7 +646,7 @@
    "disponible": true,
    "creado": "2026-05-20",
    "publicado": "2026-05-20",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_0baf047c-afec-44f6-b9ba-5c4bf7bd6a9f.jpg"
   },
@@ -610,7 +658,7 @@
    "disponible": true,
    "creado": "2026-05-20",
    "publicado": "2026-05-20",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img_3_3.png"
   },
@@ -622,7 +670,7 @@
    "disponible": true,
    "creado": "2026-05-15",
    "publicado": "2026-05-16",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Bienestar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_552a236b-4e20-4036-ab74-d9269c7e0008.avif"
   },
@@ -634,7 +682,7 @@
    "disponible": true,
    "creado": "2026-05-06",
    "publicado": "2026-05-10",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_6ac9c16a-e67c-44d4-abf0-7581bdf5ea9e.png"
   },
@@ -646,7 +694,7 @@
    "disponible": true,
    "creado": "2026-05-06",
    "publicado": "2026-05-10",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img2_45c974bf-b270-4068-9796-4008486451fc.avif"
   },
@@ -658,7 +706,7 @@
    "disponible": true,
    "creado": "2026-05-05",
    "publicado": "2026-05-06",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_65ad8855-0f10-4b0c-9ed2-265284632fe2.jpg"
   },
@@ -670,7 +718,7 @@
    "disponible": true,
    "creado": "2026-05-05",
    "publicado": "2026-05-06",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Bisutería",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img5_117fd686-9284-447d-b6bf-a39246b3a7c8.avif"
   },
@@ -682,7 +730,7 @@
    "disponible": true,
    "creado": "2026-05-05",
    "publicado": "2026-05-06",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Bisutería",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img9_35de574d-cee8-44bf-a656-a44f10dd4b1f.avif"
   },
@@ -694,7 +742,7 @@
    "disponible": true,
    "creado": "2026-05-04",
    "publicado": "2026-05-04",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Bisutería",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/CollarRosa3.png"
   },
@@ -706,7 +754,7 @@
    "disponible": true,
    "creado": "2026-05-04",
    "publicado": "2026-05-04",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Bisutería",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_b7be422f-28db-44b1-a8b2-8f640de1b3cb.avif"
   },
@@ -718,7 +766,7 @@
    "disponible": true,
    "creado": "2026-05-04",
    "publicado": "2026-05-04",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Bisutería",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_f5c5c01b-e876-406e-8a4b-1c5aedba43d5.avif"
   },
@@ -730,7 +778,7 @@
    "disponible": true,
    "creado": "2026-04-30",
    "publicado": "2026-05-01",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img9_c50b3fa3-c779-4fe8-a73f-81e7d52c1b0c.avif"
   },
@@ -742,7 +790,7 @@
    "disponible": true,
    "creado": "2026-04-30",
    "publicado": "2026-05-01",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img3_ce73fb4d-6343-4963-b213-a44a2fa259b5.jpg"
   },
@@ -754,7 +802,7 @@
    "disponible": true,
    "creado": "2026-04-29",
    "publicado": "2026-04-30",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Bisutería",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img3_38cfbba7-5117-46a3-ab5c-0cd22b4edab6.png"
   },
@@ -766,7 +814,7 @@
    "disponible": true,
    "creado": "2026-04-29",
    "publicado": "2026-04-30",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Bisutería",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img3_92407879-254c-4d3c-90b0-f81573e7a291.jpg"
   },
@@ -778,7 +826,7 @@
    "disponible": true,
    "creado": "2026-04-28",
    "publicado": "2026-04-29",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img14_4cee1c86-8bc9-49f9-bbe2-e827a4bb8fc5.png"
   },
@@ -790,7 +838,7 @@
    "disponible": true,
    "creado": "2026-04-22",
    "publicado": "2026-04-23",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Cocina",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img7_3ae8d8f2-3a47-49e9-a146-63693de3f046.avif"
   },
@@ -802,7 +850,7 @@
    "disponible": true,
    "creado": "2026-04-21",
    "publicado": "2026-04-21",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Deportes",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img6_50272852-22e3-42f4-ac11-5fca0c631763.webp"
   },
@@ -814,7 +862,7 @@
    "disponible": true,
    "creado": "2026-04-21",
    "publicado": "2026-04-21",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img2_5ad6c3c5-5c5a-4c9b-9538-e14a31462974.png"
   },
@@ -826,7 +874,7 @@
    "disponible": true,
    "creado": "2026-04-18",
    "publicado": "2026-04-19",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Tecnologia",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_e9618aa8-1aa8-42d8-b085-2eb97fb48ac4.png"
   },
@@ -838,7 +886,7 @@
    "disponible": false,
    "creado": "2026-04-16",
    "publicado": "2026-04-16",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_7a4c8b4f-d4fd-4a97-9561-2894c710ddb5.png"
   },
@@ -850,7 +898,7 @@
    "disponible": true,
    "creado": "2026-04-13",
    "publicado": "2026-04-13",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img3_b6dc9b9d-0d48-42ae-9c3f-d092e6b1a140.avif"
   },
@@ -862,7 +910,7 @@
    "disponible": true,
    "creado": "2026-04-13",
    "publicado": "2026-04-13",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_8fcc0e4a-9693-4866-8701-0859dfdf6668.avif"
   },
@@ -874,7 +922,7 @@
    "disponible": true,
    "creado": "2026-03-25",
    "publicado": "2026-03-29",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img11_4005b802-613c-4bff-82ae-1ae71a0654d8.avif"
   },
@@ -886,7 +934,7 @@
    "disponible": true,
    "creado": "2026-03-25",
    "publicado": "2026-03-29",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_a53ed3bb-180d-4c91-a957-d014d375bce0.png"
   },
@@ -898,7 +946,7 @@
    "disponible": true,
    "creado": "2026-03-25",
    "publicado": "2026-03-29",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_6268294b-ffef-4f32-ac00-6298c034820e.png"
   },
@@ -910,7 +958,7 @@
    "disponible": true,
    "creado": "2026-03-10",
    "publicado": "2026-03-10",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_1d11e328-87ee-46ba-aec2-43157655a8cc.png"
   },
@@ -922,7 +970,7 @@
    "disponible": true,
    "creado": "2026-03-03",
    "publicado": "2026-03-05",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Tecnologia",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_6d63534d-7de2-4e18-888e-d4509a675b8c.png"
   },
@@ -934,7 +982,7 @@
    "disponible": true,
    "creado": "2026-03-03",
    "publicado": "2026-03-05",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_60bcf784-6ae4-400f-8081-efa4b9085786.png"
   },
@@ -946,7 +994,7 @@
    "disponible": true,
    "creado": "2026-02-26",
    "publicado": "2026-02-28",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img10_afd28029-d8a3-4991-a305-a7959155bf69.jpg"
   },
@@ -958,7 +1006,7 @@
    "disponible": true,
    "creado": "2026-02-26",
    "publicado": "2026-02-28",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Otro",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1-4.png"
   },
@@ -970,7 +1018,7 @@
    "disponible": true,
    "creado": "2026-02-24",
    "publicado": "2026-02-26",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1-2_960be77a-c6f9-40d3-a140-563306ef8997.png"
   },
@@ -982,7 +1030,7 @@
    "disponible": true,
    "creado": "2026-02-24",
    "publicado": "2026-02-26",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Cocina",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img3_2bbbcd1b-40c3-490f-98bc-0bb100d1fbc1.png"
   },
@@ -994,7 +1042,7 @@
    "disponible": true,
    "creado": "2025-07-23",
    "publicado": "2026-02-17",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Vehículos",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img-2.png"
   },
@@ -1006,7 +1054,7 @@
    "disponible": true,
    "creado": "2026-02-12",
    "publicado": "2026-02-16",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1-6.jpg"
   },
@@ -1018,7 +1066,7 @@
    "disponible": true,
    "creado": "2026-02-12",
    "publicado": "2026-02-16",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Tecnologia",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_2c4c87ce-009e-49ed-8b70-14ea9c6fa34d.avif"
   },
@@ -1030,7 +1078,7 @@
    "disponible": true,
    "creado": "2026-02-12",
    "publicado": "2026-02-16",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Otro",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img6_0ecc28cc-4dfd-453b-8c2e-87b9e5388dfb.avif"
   },
@@ -1042,7 +1090,7 @@
    "disponible": true,
    "creado": "2026-02-04",
    "publicado": "2026-02-05",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Vehículos",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img14_85b907f7-e9ed-4ca1-935b-2b29952ec3fd.webp"
   },
@@ -1054,7 +1102,7 @@
    "disponible": true,
    "creado": "2026-02-04",
    "publicado": "2026-02-05",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Vehículos",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img14_bcb0d061-1c77-4655-b3ea-f65163245a56.png"
   },
@@ -1066,7 +1114,7 @@
    "disponible": true,
    "creado": "2026-01-31",
    "publicado": "2026-02-02",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Otro",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img2_e8c61ac5-fcb6-4ee2-aaf2-65924d888f8e.avif"
   },
@@ -1078,7 +1126,7 @@
    "disponible": true,
    "creado": "2026-01-31",
    "publicado": "2026-02-02",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Vehículos",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img12.jpg"
   },
@@ -1090,7 +1138,7 @@
    "disponible": true,
    "creado": "2026-01-30",
    "publicado": "2026-02-02",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Otro",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_3b0deea2-968e-4e2d-90fa-c0c788f70907.avif"
   },
@@ -1102,7 +1150,7 @@
    "disponible": true,
    "creado": "2026-01-27",
    "publicado": "2026-01-28",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Moda",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img4_6ea15380-de0f-419b-a0d5-a07a2dcddff5.avif"
   },
@@ -1114,7 +1162,7 @@
    "disponible": true,
    "creado": "2025-12-23",
    "publicado": "2026-01-14",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img10_99224360-dabe-49b5-b338-90ec0caabac1.png"
   },
@@ -1126,7 +1174,7 @@
    "disponible": true,
    "creado": "2025-12-31",
    "publicado": "2026-01-14",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Cocina",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img6_96d70587-5c24-410a-88d1-be60e36e1e90.png"
   },
@@ -1138,7 +1186,7 @@
    "disponible": true,
    "creado": "2025-12-31",
    "publicado": "2026-01-14",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Otro",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img7_a60bc8bb-8f29-45fa-a40c-090bdbfe81e4.avif"
   },
@@ -1150,7 +1198,7 @@
    "disponible": true,
    "creado": "2025-12-17",
    "publicado": "2026-01-06",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img2_0d1b5e11-88be-4273-b2ae-fc62fcbe1717.avif"
   },
@@ -1162,7 +1210,7 @@
    "disponible": true,
    "creado": "2025-12-17",
    "publicado": "2025-12-17",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img14_d4211ee2-cdaa-47b4-ae4b-7555f6c500da.png"
   },
@@ -1174,7 +1222,7 @@
    "disponible": true,
    "creado": "2025-12-16",
    "publicado": "2025-12-17",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Tecnologia",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img3_408aa1d0-5118-4bc0-bd64-a5563fb019a4.avif"
   },
@@ -1186,7 +1234,7 @@
    "disponible": true,
    "creado": "2025-12-16",
    "publicado": "2025-12-17",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Deportes",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_08ddd88c-c6cd-4258-956c-eddcf4c7bd6c.avif"
   },
@@ -1198,7 +1246,7 @@
    "disponible": true,
    "creado": "2025-12-10",
    "publicado": "2025-12-11",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img2_7562c62d-eda2-41b6-b775-34e2fbf9ddef.avif"
   },
@@ -1210,7 +1258,7 @@
    "disponible": true,
    "creado": "2025-11-19",
    "publicado": "2025-12-11",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Tecnologia",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img4_5a602b30-3c2e-46bc-86b8-53345d020310.avif"
   },
@@ -1222,7 +1270,7 @@
    "disponible": true,
    "creado": "2025-11-19",
    "publicado": "2025-12-10",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img4_4d2eb66d-ee05-4a57-b904-23fec879cfec.avif"
   },
@@ -1234,7 +1282,7 @@
    "disponible": true,
    "creado": "2025-11-21",
    "publicado": "2025-12-10",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Cocina",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img3_795ea920-b16d-4179-a5fc-56bc0bf41e1f.avif"
   },
@@ -1246,7 +1294,7 @@
    "disponible": true,
    "creado": "2025-11-21",
    "publicado": "2025-12-04",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img13_582efbb1-6db7-4ed8-9f91-e25cdd7c6a3a.png"
   },
@@ -1258,7 +1306,7 @@
    "disponible": true,
    "creado": "2025-11-21",
    "publicado": "2025-12-04",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Tecnologia",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_d355d167-53aa-4d93-b74e-6ddbeee3163c.png"
   },
@@ -1270,7 +1318,7 @@
    "disponible": true,
    "creado": "2025-11-25",
    "publicado": "2025-12-04",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img7_67856129-a0bf-40d7-8d45-f7ba78bf36ba.avif"
   },
@@ -1282,7 +1330,7 @@
    "disponible": true,
    "creado": "2025-11-24",
    "publicado": "2025-11-24",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Pesca",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_7639b4dc-6d6d-44aa-be90-2ef774782288.png"
   },
@@ -1294,7 +1342,7 @@
    "disponible": true,
    "creado": "2025-11-21",
    "publicado": "2025-11-24",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_3affe6f8-5b3b-478d-a8b8-ae02274fd4c2.avif"
   },
@@ -1306,7 +1354,7 @@
    "disponible": true,
    "creado": "2025-11-21",
    "publicado": "2025-11-24",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_4e4c4934-9c1e-4c1c-9418-dec45f84d0c8.avif"
   },
@@ -1318,7 +1366,7 @@
    "disponible": true,
    "creado": "2025-10-29",
    "publicado": "2025-10-30",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img6_6560fd02-d8d0-4ff5-b382-43a18fcfad36.avif"
   },
@@ -1330,7 +1378,7 @@
    "disponible": true,
    "creado": "2025-10-28",
    "publicado": "2025-10-28",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Vehículos",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/1.png"
   },
@@ -1342,7 +1390,7 @@
    "disponible": true,
    "creado": "2025-10-28",
    "publicado": "2025-10-28",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/1_93f95a42-270a-4823-a24f-d1244397d4ab.jpg"
   },
@@ -1354,7 +1402,7 @@
    "disponible": true,
    "creado": "2025-10-24",
    "publicado": "2025-10-28",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img4_7ece690c-659f-4607-a464-8f4f29aa9a57.png"
   },
@@ -1366,7 +1414,7 @@
    "disponible": true,
    "creado": "2025-10-07",
    "publicado": "2025-10-20",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img11_e781b2a2-09d3-41fa-9f13-ab1782cb12fc.avif"
   },
@@ -1378,7 +1426,7 @@
    "disponible": true,
    "creado": "2025-10-07",
    "publicado": "2025-10-20",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Camping",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_27a0096f-e68f-4681-9742-7776605af92c.png"
   },
@@ -1390,7 +1438,7 @@
    "disponible": true,
    "creado": "2025-10-07",
    "publicado": "2025-10-20",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Vehículos",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_4b387540-0616-4674-aed0-01cc36d92d09.png"
   },
@@ -1402,7 +1450,7 @@
    "disponible": true,
    "creado": "2025-10-08",
    "publicado": "2025-10-20",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img8_ed202293-9fad-4aaa-be3f-1fa4044431d7.avif"
   },
@@ -1414,7 +1462,7 @@
    "disponible": true,
    "creado": "2025-10-02",
    "publicado": "2025-10-03",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Otro",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_3d95a977-5acc-4eee-a8e8-c7fcea8191dc.png"
   },
@@ -1426,7 +1474,7 @@
    "disponible": true,
    "creado": "2025-10-03",
    "publicado": "2025-10-03",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Otro",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img8_a4e9bbca-210e-447e-b7dd-7330da03a460.png"
   },
@@ -1438,7 +1486,7 @@
    "disponible": true,
    "creado": "2025-09-26",
    "publicado": "2025-09-26",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Tecnologia",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_09759729-43dc-45b3-84f2-486a6bc1cf5a.png"
   },
@@ -1450,7 +1498,7 @@
    "disponible": true,
    "creado": "2025-09-26",
    "publicado": "2025-09-26",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img9_048c9b70-df22-41db-a961-ca59f5a87a22.avif"
   },
@@ -1462,7 +1510,7 @@
    "disponible": true,
    "creado": "2025-09-16",
    "publicado": "2025-09-19",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Moda",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img2_87b54952-6a9a-4207-b01b-8dffd0001f2b.png"
   },
@@ -1474,7 +1522,7 @@
    "disponible": true,
    "creado": "2025-09-17",
    "publicado": "2025-09-19",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Cocina",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img6_7b19d263-cfad-456e-8fd8-098e5eba745c.avif"
   },
@@ -1486,7 +1534,7 @@
    "disponible": false,
    "creado": "2025-09-16",
    "publicado": "2025-09-19",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Tecnologia",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img4_d459bf0b-39df-4087-b3ae-725ffd3e1e3f.avif"
   },
@@ -1498,7 +1546,7 @@
    "disponible": false,
    "creado": "2025-09-05",
    "publicado": "2025-09-05",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Vehículos",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img11_4e523912-9909-4970-a675-cda45dee7a5a.png"
   },
@@ -1510,7 +1558,7 @@
    "disponible": true,
    "creado": "2025-09-04",
    "publicado": "2025-09-05",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1.avif"
   },
@@ -1522,7 +1570,7 @@
    "disponible": true,
    "creado": "2025-09-04",
    "publicado": "2025-09-05",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_035dfafc-583b-4a71-ae4a-86b1d1c6294c.webp"
   },
@@ -1534,7 +1582,7 @@
    "disponible": true,
    "creado": "2025-08-29",
    "publicado": "2025-09-03",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img12_d002da2b-06c7-4479-b086-df1e310bf736.png"
   },
@@ -1546,7 +1594,7 @@
    "disponible": true,
    "creado": "2025-08-20",
    "publicado": "2025-09-03",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/02_38d39956-cfd3-42b1-800c-bd12f520804a.png"
   },
@@ -1558,7 +1606,7 @@
    "disponible": true,
    "creado": "2025-08-21",
    "publicado": "2025-09-03",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Otro",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img2_21637150-3f32-4720-969b-35e2747d78f0.webp"
   },
@@ -1570,7 +1618,7 @@
    "disponible": true,
    "creado": "2025-08-05",
    "publicado": "2025-08-18",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_6192d178-b39c-4224-a4c4-463fc847c48c.webp"
   },
@@ -1582,7 +1630,7 @@
    "disponible": true,
    "creado": "2025-08-15",
    "publicado": "2025-08-18",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Vehículos",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_7a4f1917-a4a8-40b5-9bef-986d6acea330.png"
   },
@@ -1594,7 +1642,7 @@
    "disponible": true,
    "creado": "2025-08-18",
    "publicado": "2025-08-18",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/12.webp"
   },
@@ -1606,7 +1654,7 @@
    "disponible": true,
    "creado": "2025-08-14",
    "publicado": "2025-08-15",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/01_e954d517-ce20-46b1-8344-1b768b6d4299.png"
   },
@@ -1618,7 +1666,7 @@
    "disponible": true,
    "creado": "2025-08-14",
    "publicado": "2025-08-15",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Cocina",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img2_f9e8d001-96c0-400e-834b-87087f27d602.png"
   },
@@ -1630,7 +1678,7 @@
    "disponible": true,
    "creado": "2025-08-05",
    "publicado": "2025-08-14",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/D_NQ_NP_774323-MCO82296201416_022025-O.webp"
   },
@@ -1642,7 +1690,7 @@
    "disponible": true,
    "creado": "2025-08-04",
    "publicado": "2025-08-04",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Cocina",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_5da71d52-9748-4961-b9bc-94aca097ac33.webp"
   },
@@ -1654,7 +1702,7 @@
    "disponible": true,
    "creado": "2025-08-01",
    "publicado": "2025-08-04",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_c1822eba-f1db-44da-a8d8-8b7f37aed50e.png"
   },
@@ -1666,7 +1714,7 @@
    "disponible": true,
    "creado": "2025-07-31",
    "publicado": "2025-07-31",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Cocina",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img9_5cbeeb29-f6da-4e06-805f-5ddbb38a7248.webp"
   },
@@ -1678,7 +1726,7 @@
    "disponible": true,
    "creado": "2025-07-31",
    "publicado": "2025-07-31",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img3_a4218e11-2e36-4e53-8a7f-9a610fad6478.webp"
   },
@@ -1690,7 +1738,7 @@
    "disponible": true,
    "creado": "2025-07-30",
    "publicado": "2025-07-31",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Cocina",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img3_6092ccba-bf80-4dc8-9932-eb2b899aa663.png"
   },
@@ -1702,7 +1750,7 @@
    "disponible": true,
    "creado": "2025-07-30",
    "publicado": "2025-07-31",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Otro",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img4_50632f54-16b7-4c49-8004-40451d17b945.webp"
   },
@@ -1714,7 +1762,7 @@
    "disponible": true,
    "creado": "2025-07-26",
    "publicado": "2025-07-30",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/76e3145168add3b1ce7b20d85d70db58ca07eacd.avif"
   },
@@ -1726,7 +1774,7 @@
    "disponible": true,
    "creado": "2025-07-29",
    "publicado": "2025-07-29",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Vehículos",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_8ea8692e-a9bf-4443-921a-4b6fdbe78c1a.png"
   },
@@ -1738,7 +1786,7 @@
    "disponible": true,
    "creado": "2025-07-29",
    "publicado": "2025-07-29",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img8.webp"
   },
@@ -1750,7 +1798,7 @@
    "disponible": true,
    "creado": "2025-07-29",
    "publicado": "2025-07-29",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/image2.png"
   },
@@ -1762,7 +1810,7 @@
    "disponible": true,
    "creado": "2025-07-28",
    "publicado": "2025-07-28",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/03FIBRANFondoVerde.jpg"
   },
@@ -1774,7 +1822,7 @@
    "disponible": true,
    "creado": "2025-07-25",
    "publicado": "2025-07-25",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_0e825500-f5a0-4291-b353-d606dcf479a2.png"
   },
@@ -1786,7 +1834,7 @@
    "disponible": true,
    "creado": "2025-07-22",
    "publicado": "2025-07-24",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/1729875833main-image-1.jpg"
   },
@@ -1798,7 +1846,7 @@
    "disponible": true,
    "creado": "2025-07-22",
    "publicado": "2025-07-24",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/02.png"
   },
@@ -1810,7 +1858,7 @@
    "disponible": true,
    "creado": "2025-07-23",
    "publicado": "2025-07-24",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Cocina",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/01_e8734472-c7a1-4383-b0fc-505ab0cc1368.png"
   },
@@ -1822,7 +1870,7 @@
    "disponible": true,
    "creado": "2025-07-19",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img1_dd6baf3a-c7be-4aaf-a9b8-8c2c31628e32.jpg"
   },
@@ -1834,7 +1882,7 @@
    "disponible": true,
    "creado": "2025-07-21",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/04.jpg"
   },
@@ -1846,7 +1894,7 @@
    "disponible": true,
    "creado": "2025-07-21",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/03.png"
   },
@@ -1858,7 +1906,7 @@
    "disponible": true,
    "creado": "2025-07-18",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img-1_7f3aa50f-b2e2-4d08-99f1-50e4dcad96f6.jpg"
   },
@@ -1870,7 +1918,7 @@
    "disponible": true,
    "creado": "2025-07-15",
    "publicado": "2025-07-15",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img-6_55f8f6c3-4062-48b7-acb0-be08557256a4.avif"
   },
@@ -1882,7 +1930,7 @@
    "disponible": true,
    "creado": "2025-07-09",
    "publicado": "2025-07-10",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/05.webp"
   },
@@ -1894,7 +1942,7 @@
    "disponible": true,
    "creado": "2025-07-08",
    "publicado": "2025-07-08",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/4_174fd452-ced5-46ad-a093-f176ec054288.webp"
   },
@@ -1906,7 +1954,7 @@
    "disponible": true,
    "creado": "2025-07-08",
    "publicado": "2025-07-08",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img-1_14fa5530-28b0-4fdb-9085-420c7f62fa28.avif"
   },
@@ -1918,7 +1966,7 @@
    "disponible": true,
    "creado": "2025-07-08",
    "publicado": "2025-07-08",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img-1_a5395149-39dd-4d10-a815-0ab5d5f29e95.webp"
   },
@@ -1930,7 +1978,7 @@
    "disponible": true,
    "creado": "2025-07-01",
    "publicado": "2025-07-02",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img-4.jpg"
   },
@@ -1942,7 +1990,7 @@
    "disponible": true,
    "creado": "2025-06-30",
    "publicado": "2025-06-30",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Vehículos",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img-4_6eeb3567-18c5-4773-b641-22a9ff2f86ba.avif"
   },
@@ -1954,7 +2002,7 @@
    "disponible": true,
    "creado": "2025-06-26",
    "publicado": "2025-06-27",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/img-3.avif"
   },
@@ -1966,7 +2014,7 @@
    "disponible": true,
    "creado": "2025-06-23",
    "publicado": "2025-06-25",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Vehículos",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/malla-auto.avif"
   },
@@ -1978,7 +2026,7 @@
    "disponible": true,
    "creado": "2025-06-21",
    "publicado": "2025-06-25",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/Imagen_mejorada_antena_para_carros_portada_1440x1440_5514e983-a630-4a3c-95ff-5bf1172f24e3.png"
   },
@@ -1990,7 +2038,7 @@
    "disponible": true,
    "creado": "2025-06-24",
    "publicado": "2025-06-25",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/galeria-1.jpg"
   },
@@ -2002,7 +2050,7 @@
    "disponible": true,
    "creado": "2025-05-20",
    "publicado": "2025-05-20",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/Disenosintitulo_57.png"
   },
@@ -2014,7 +2062,7 @@
    "disponible": true,
    "creado": "2025-05-15",
    "publicado": "2025-05-15",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/Capturadepantalla2025-12-22163951.png"
   },
@@ -2026,7 +2074,7 @@
    "disponible": true,
    "creado": "2025-05-10",
    "publicado": "2025-05-10",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/Anadiruntitulo_8.png"
   },
@@ -2038,7 +2086,7 @@
    "disponible": true,
    "creado": "2025-03-18",
    "publicado": "2025-03-18",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Tecnologia",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/mini-doorbell-withe_2.jpg"
   },
@@ -2050,7 +2098,7 @@
    "disponible": true,
    "creado": "2025-03-18",
    "publicado": "2025-03-18",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Cocina",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/FILTRO-5_675x_870d8aea-646a-4ac9-b851-f643dbf54a72.jpg"
   },
@@ -2062,7 +2110,7 @@
    "disponible": true,
    "creado": "2025-03-12",
    "publicado": "2025-03-12",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Natural Home",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/173878905371TPaxPFpjL._AC_SL1500_8d584875-0b65-45f7-b328-984cd206294b_1.jpg"
   },
@@ -2074,7 +2122,7 @@
    "disponible": true,
    "creado": "2025-02-20",
    "publicado": "2025-02-20",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/4_71fc4e5e-77b3-4770-84d1-034f43afb375.jpg"
   },
@@ -2086,7 +2134,7 @@
    "disponible": true,
    "creado": "2025-02-20",
    "publicado": "2025-02-20",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/1_037917bb-3ddf-4f6c-b1da-f75223dfce4e.jpg"
   },
@@ -2098,7 +2146,7 @@
    "disponible": true,
    "creado": "2025-02-17",
    "publicado": "2025-02-17",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Vehículos",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/839774968213030_58da56bc_0908ca69-a448-43a6-856f-d7af6383c165.jpg"
   },
@@ -2110,7 +2158,7 @@
    "disponible": true,
    "creado": "2025-02-11",
    "publicado": "2025-02-11",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Cocina",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/organizador1.jpg"
   },
@@ -2122,7 +2170,7 @@
    "disponible": true,
    "creado": "2025-02-10",
    "publicado": "2025-02-10",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/2023-08-11T154140.635_787c9aea-ac84-4617-a428-4a5db6a69734.png"
   },
@@ -2134,7 +2182,7 @@
    "disponible": true,
    "creado": "2025-02-03",
    "publicado": "2025-02-03",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Otro",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/Disenosintitulo_29.png"
   },
@@ -2146,7 +2194,7 @@
    "disponible": true,
    "creado": "2025-01-30",
    "publicado": "2025-01-30",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/1715982930Organizador_de_Bolsos-1_5.jpg"
   },
@@ -2158,7 +2206,7 @@
    "disponible": true,
    "creado": "2025-01-21",
    "publicado": "2025-01-21",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Vehículos",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/61SmVtCGqNL._AC_SL1001_480x480_e69b0925-17b2-4eda-b7c8-84ae580aebb0_1.jpg"
   },
@@ -2170,7 +2218,7 @@
    "disponible": true,
    "creado": "2025-01-20",
    "publicado": "2025-01-20",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Otro",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/D_NQ_NP_900055-MCO78609822033_082024-O.webp"
   },
@@ -2182,7 +2230,7 @@
    "disponible": true,
    "creado": "2025-01-14",
    "publicado": "2025-01-14",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/SHELFEXPEND-GALLERY-IMG2-min.webp"
   },
@@ -2194,7 +2242,7 @@
    "disponible": true,
    "creado": "2025-01-07",
    "publicado": "2025-01-07",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/79.png"
   },
@@ -2206,7 +2254,7 @@
    "disponible": true,
    "creado": "2024-12-30",
    "publicado": "2024-12-30",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Ropa Deportiva",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/Anadiruntitulo_7.jpg"
   },
@@ -2218,7 +2266,7 @@
    "disponible": true,
    "creado": "2024-11-12",
    "publicado": "2024-11-12",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Vehículos",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/5_800x_b2fc2a02-25b1-4efd-a0ba-b7eac2ddb44b_1.jpg"
   },
@@ -2230,7 +2278,7 @@
    "disponible": false,
    "creado": "2024-11-06",
    "publicado": "2024-11-06",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": ""
   },
@@ -2242,7 +2290,7 @@
    "disponible": true,
    "creado": "2024-11-06",
    "publicado": "2024-11-06",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/1_590x_5a1a6f6c-817c-41ba-8940-bffde7b43b8d.jpg"
   },
@@ -2254,7 +2302,7 @@
    "disponible": true,
    "creado": "2024-09-24",
    "publicado": "2024-09-24",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Otro",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/IMA9_1.jpg"
   },
@@ -2266,7 +2314,7 @@
    "disponible": true,
    "creado": "2024-09-18",
    "publicado": "2024-09-18",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Otro",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/H3625d31999404b55b5bde6d44c0de971K_014d0ed2-41de-45d7-9b15-72e43668286f.webp"
   },
@@ -2278,7 +2326,7 @@
    "disponible": true,
    "creado": "2024-09-17",
    "publicado": "2024-09-17",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Otro",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/1_73d51f13-120b-46cb-90d5-f92675c92975_3.png"
   },
@@ -2290,7 +2338,7 @@
    "disponible": true,
    "creado": "2024-09-16",
    "publicado": "2024-09-16",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Vehículos",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/soporte_para_auto_360_48baacf9-0a6c-4633-91a5-89c76c205d6d.png"
   },
@@ -2302,7 +2350,7 @@
    "disponible": true,
    "creado": "2024-09-15",
    "publicado": "2024-09-15",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/Disenosintitulo_27.png"
   },
@@ -2314,7 +2362,7 @@
    "disponible": true,
    "creado": "2024-09-15",
    "publicado": "2024-09-15",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/81tEMVoM6vL._AC_SX679.jpg"
   },
@@ -2326,7 +2374,7 @@
    "disponible": true,
    "creado": "2024-09-15",
    "publicado": "2024-09-15",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/6_51e26450-e365-4747-a0d5-532365163e3c.jpg"
   },
@@ -2338,7 +2386,7 @@
    "disponible": true,
    "creado": "2024-09-10",
    "publicado": "2024-09-10",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/37a6259cc0c1dae299a7866489dff0bdhzNMdebL1sXk02-830_A_480x480_2x_14fb3ae4-64a9-482a-85d9-75d1fea386fe.jpg"
   },
@@ -2350,7 +2398,7 @@
    "disponible": true,
    "creado": "2024-08-27",
    "publicado": "2024-08-27",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Cocina",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/fm-1_800x_720x720_720x_8554fb76-85d1-49af-9f24-2c27e6b3b459.jpg"
   },
@@ -2362,7 +2410,7 @@
    "disponible": true,
    "creado": "2024-08-21",
    "publicado": "2024-08-21",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Tecnologia",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/1720284589ejemplo_4-transformed.jpg"
   },
@@ -2374,7 +2422,7 @@
    "disponible": true,
    "creado": "2024-08-17",
    "publicado": "2024-08-17",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/1722715020IMG_7410.jpg"
   },
@@ -2386,7 +2434,7 @@
    "disponible": true,
    "creado": "2024-08-14",
    "publicado": "2024-08-14",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Piñateria",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/81tFOdhXquL._AC_SL1500_480x480_7ece1982-4825-46f9-8c8e-4633900680c3.jpg"
   },
@@ -2398,7 +2446,7 @@
    "disponible": true,
    "creado": "2024-08-06",
    "publicado": "2024-08-06",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/Sb1e67ad6a3d449a1abad65b134c768cfm.jpg"
   },
@@ -2410,7 +2458,7 @@
    "disponible": true,
    "creado": "2024-08-01",
    "publicado": "2024-08-01",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/Paga_2.png"
   },
@@ -2422,7 +2470,7 @@
    "disponible": true,
    "creado": "2024-07-31",
    "publicado": "2024-07-31",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/4567f3209744785ea5aabef04d905ec5.jpg"
   },
@@ -2434,7 +2482,7 @@
    "disponible": true,
    "creado": "2024-07-23",
    "publicado": "2024-07-23",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/Silent_rise.png"
   },
@@ -2446,7 +2494,7 @@
    "disponible": true,
    "creado": "2024-07-09",
    "publicado": "2024-07-09",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/bf834ea2827f2e6928535fb056ec5bc5.jpg"
   },
@@ -2458,7 +2506,7 @@
    "disponible": true,
    "creado": "2024-06-04",
    "publicado": "2024-06-04",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Cocina",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/Disenosintitulo_69_a0a0580b-f196-41a3-96c1-e94e16434da2.png"
   },
@@ -2470,7 +2518,7 @@
    "disponible": true,
    "creado": "2024-05-02",
    "publicado": "2024-05-02",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/1_3bef5097-b56f-4aca-8261-7f943a7d2383.jpg"
   },
@@ -2482,7 +2530,7 @@
    "disponible": true,
    "creado": "2024-05-02",
    "publicado": "2024-05-02",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar, Bienestar, Otro",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/32232319-800-auto_2.jpg"
   },
@@ -2494,7 +2542,7 @@
    "disponible": true,
    "creado": "2024-04-30",
    "publicado": "2024-04-30",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/330720-149_Insitu_Image_1_1800x1800_2.jpg"
   },
@@ -2506,7 +2554,7 @@
    "disponible": true,
    "creado": "2024-04-29",
    "publicado": "2024-04-29",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/61bb4H0YIcL._SX522.jpg"
   },
@@ -2518,7 +2566,7 @@
    "disponible": true,
    "creado": "2024-01-10",
    "publicado": "2024-01-10",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Cocina",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/c5fb864217df6515a4e607f9082aa70e_7.jpg"
   },
@@ -2530,7 +2578,7 @@
    "disponible": true,
    "creado": "2023-12-13",
    "publicado": "2023-12-13",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Cocina",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/Napa-alfombrilla-de-goma-para-escurrir-platos-alfombrilla-superabsorbente-para-escurrir-platos-vajilla-botellas-Mantel-Individual_jpg_Q90_jpg_1024x1024_49718e82-7258-4508-8a4f-b4cd74197dae.jpg"
   },
@@ -2542,7 +2590,7 @@
    "disponible": true,
    "creado": "2023-11-10",
    "publicado": "2023-11-10",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/images.jpg"
   },
@@ -2554,7 +2602,7 @@
    "disponible": true,
    "creado": "2023-10-25",
    "publicado": "2023-10-25",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/pk6PyEibUp9xHn7IxdFnrmmjlO4LqOyYQ4rfVVRt_720x720_3.webp"
   },
@@ -2566,7 +2614,7 @@
    "disponible": true,
    "creado": "2023-10-25",
    "publicado": "2023-10-25",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/4_146389af-b455-4af5-9c66-91d71db1bb42.webp"
   },
@@ -2578,7 +2626,7 @@
    "disponible": true,
    "creado": "2023-10-23",
    "publicado": "2023-10-23",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/WhatsAppImage2023-06-15at3.33.36PM.jpg"
   },
@@ -2590,7 +2638,7 @@
    "disponible": true,
    "creado": "2023-08-17",
    "publicado": "2023-08-17",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/D_NQ_NP_842783-MCO50100567133_052022-O.jpg"
   },
@@ -2602,7 +2650,7 @@
    "disponible": true,
    "creado": "2023-07-11",
    "publicado": "2023-07-11",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Cocina",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/products/d19e00900d2d2f115b375c479f029135.jpg"
   },
@@ -2614,7 +2662,7 @@
    "disponible": true,
    "creado": "2023-07-11",
    "publicado": "2023-07-11",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Otro, Deportes, Hogar, Salud",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/unnamed.png"
   },
@@ -2626,7 +2674,7 @@
    "disponible": true,
    "creado": "2023-07-01",
    "publicado": "2023-07-01",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Bienestar, Aseo, Belleza",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/products/9845eac5a83f49eb4c7aca10c134b14c.jpg"
   },
@@ -2638,7 +2686,7 @@
    "disponible": true,
    "creado": "2023-06-29",
    "publicado": "2023-06-29",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Bienestar, Tecnologia",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/products/5c5beead53f98b707ab8dd704b8b9bff.jpg"
   },
@@ -2650,7 +2698,7 @@
    "disponible": true,
    "creado": "2023-06-28",
    "publicado": "2023-06-28",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Belleza",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/files/H69bc02112fa54cacb969f048cee66a3cB.jpg_960x960_1_dd669995-33fc-4cf1-9d47-ea6b60f52b7b.png"
   },
@@ -2662,7 +2710,7 @@
    "disponible": true,
    "creado": "2023-06-28",
    "publicado": "2023-06-28",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/products/0222226045682f0947c1c093cf4e4720.jpg"
   },
@@ -2674,7 +2722,7 @@
    "disponible": true,
    "creado": "2023-06-27",
    "publicado": "2023-06-27",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/products/19156aec5b7bc67b9c14d1118425cc58.jpg"
   },
@@ -2686,7 +2734,7 @@
    "disponible": true,
    "creado": "2023-06-27",
    "publicado": "2023-06-27",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Mascotas",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/products/1ad5aaf0d789bb3761d109f14d3337f7.jpg"
   },
@@ -2698,7 +2746,7 @@
    "disponible": true,
    "creado": "2023-06-27",
    "publicado": "2023-06-27",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/products/307e8c4d36fd6baf96113a17a99bbf31.jpg"
   },
@@ -2710,7 +2758,7 @@
    "disponible": true,
    "creado": "2023-06-27",
    "publicado": "2023-06-27",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Aseo, Vehículos",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/products/09ae09e0ec39de6e71c694bea500f153.jpg"
   },
@@ -2722,7 +2770,7 @@
    "disponible": true,
    "creado": "2023-06-27",
    "publicado": "2023-06-27",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Ropa Deportiva, Moda",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/products/2477879ad542402e93b5e8fd90942e55.jpg"
   },
@@ -2734,7 +2782,7 @@
    "disponible": true,
    "creado": "2023-06-27",
    "publicado": "2023-06-27",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Bienestar, Salud, Tecnologia",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/products/364b8d30c31d31fba484ae77b94ce6f2.jpg"
   },
@@ -2746,7 +2794,7 @@
    "disponible": true,
    "creado": "2023-06-27",
    "publicado": "2023-06-27",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/products/b180030f06a491333a5d5199c44d47a1.jpg"
   },
@@ -2758,7 +2806,7 @@
    "disponible": true,
    "creado": "2023-06-27",
    "publicado": "2023-06-27",
-   "actualizado": "2026-11-19",
+   "actualizado": "2026-11-20",
    "tipo": "Cocina",
    "imagen": "https://cdn.shopify.com/s/files/1/0785/9257/3745/products/d5c7fb64e0476e1b8d529731dfb4c722.jpg"
   }
