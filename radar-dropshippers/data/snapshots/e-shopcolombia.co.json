@@ -1,16 +1,28 @@
 {
  "dominio": "e-shopcolombia.co",
- "fecha": "2026-11-20",
+ "fecha": "2026-11-21",
  "productos": [
+  {
+   "id": 15544649875558,
+   "titulo": "Luz Led Fuegos Artificiales - Decoración Navideña",
+   "handle": "luz-led-fuegos-artificiales-decoracion-navidena",
+   "precio": 99900.0,
+   "disponible": true,
+   "creado": "2026-11-20",
+   "publicado": "2026-11-20",
+   "actualizado": "2026-11-21",
+   "tipo": "Navidad",
+   "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/Sin_titulo_ec739eea-aca0-435c-9f55-0bee156136f9.png"
+  },
   {
    "id": 15539419742310,
    "titulo": "Falcon Jet Turbo X Drone Juguete Rc",
    "handle": "falcon-jet-turbo-x-drone-juguete-rc",
-   "precio": 149900.0,
+   "precio": 129900.0,
    "disponible": true,
    "creado": "2026-11-19",
    "publicado": "2026-11-19",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Jugueteria",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/Drones_de_combate_en_tres_colores_1.png"
   },
@@ -22,7 +34,7 @@
    "disponible": true,
    "creado": "2026-11-10",
    "publicado": "2026-11-10",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Otro",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/TitanX__Hogar_sin_plagas_db3cb58a-b23d-4c42-8714-5b2b133c7858.png"
   },
@@ -34,7 +46,7 @@
    "disponible": true,
    "creado": "2026-11-08",
    "publicado": "2026-11-08",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Otro",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/Anuncio_TitanX_contra_plagas.png"
   },
@@ -46,7 +58,7 @@
    "disponible": true,
    "creado": "2026-11-05",
    "publicado": "2026-11-05",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Belleza",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/Parches_para_parpados_efecto_instantaneo.png"
   },
@@ -58,7 +70,7 @@
    "disponible": true,
    "creado": "2026-11-04",
    "publicado": "2026-11-04",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Salud",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/SuplementodeColagenode5Tipos.png"
   },
@@ -70,7 +82,7 @@
    "disponible": true,
    "creado": "2026-11-04",
    "publicado": "2026-11-04",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Salud",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/Promocion_2x1_de_colageno_azul.png"
   },
@@ -82,7 +94,7 @@
    "disponible": true,
    "creado": "2026-10-26",
    "publicado": "2026-10-26",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Bienestar",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/Suplemento_Herbal_con_Botanicos_Naturales.png"
   },
@@ -94,7 +106,7 @@
    "disponible": true,
    "creado": "2026-10-23",
    "publicado": "2026-10-23",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Salud",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/Rainbow_Light_Women_s_One_en_cocina_luminosa.png"
   },
@@ -106,7 +118,7 @@
    "disponible": true,
    "creado": "2026-10-20",
    "publicado": "2026-10-20",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/Kit_Multifuncional__Limpia_Sin_Complicaciones.png"
   },
@@ -118,7 +130,7 @@
    "disponible": true,
    "creado": "2026-10-09",
    "publicado": "2026-10-09",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Salud",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/Mejora_tu_salud_naturalmente.png"
   },
@@ -130,7 +142,7 @@
    "disponible": true,
    "creado": "2026-09-28",
    "publicado": "2026-09-28",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Moda",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/Imagen_de_ChatGPT_28_sept_2026_07_47_32_p.m..png"
   },
@@ -142,7 +154,7 @@
    "disponible": true,
    "creado": "2026-09-24",
    "publicado": "2026-09-24",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Moda",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_24_sept_2026_11_51_26_p.m..png"
   },
@@ -154,7 +166,7 @@
    "disponible": true,
    "creado": "2026-09-23",
    "publicado": "2026-09-23",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Vehículos",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_23_sept_2026_09_48_50_p.m..png"
   },
@@ -166,7 +178,7 @@
    "disponible": true,
    "creado": "2026-09-22",
    "publicado": "2026-09-22",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Moda",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_10_08_32_p.m..png"
   },
@@ -178,7 +190,7 @@
    "disponible": true,
    "creado": "2026-09-18",
    "publicado": "2026-09-18",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Otro",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_05_17_58_p.m..png"
   },
@@ -190,7 +202,7 @@
    "disponible": true,
    "creado": "2026-09-18",
    "publicado": "2026-09-18",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Bienestar",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_07_24_08_p.m..png"
   },
@@ -202,7 +214,7 @@
    "disponible": true,
    "creado": "2026-09-17",
    "publicado": "2026-09-17",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Jugueteria",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/Sin_titulo.jpg"
   },
@@ -214,7 +226,7 @@
    "disponible": true,
    "creado": "2026-09-17",
    "publicado": "2026-09-17",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPTImage17sept2026_10_48_52a.m..png"
   },
@@ -226,7 +238,7 @@
    "disponible": true,
    "creado": "2026-09-16",
    "publicado": "2026-09-16",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Ropa Deportiva",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPTImage16sept2026_02_19_43p.m..png"
   },
@@ -238,7 +250,7 @@
    "disponible": true,
    "creado": "2025-12-30",
    "publicado": "2026-09-14",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_06_19_54_p.m..png"
   },
@@ -250,7 +262,7 @@
    "disponible": true,
    "creado": "2026-02-05",
    "publicado": "2026-09-14",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Cocina",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_06_31_35_p.m..png"
   },
@@ -262,7 +274,7 @@
    "disponible": true,
    "creado": "2026-09-04",
    "publicado": "2026-09-04",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Cocina",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_07_44_22_p.m..png"
   },
@@ -274,7 +286,7 @@
    "disponible": true,
    "creado": "2026-08-13",
    "publicado": "2026-08-13",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_07_39_31_p.m..png"
   },
@@ -286,7 +298,7 @@
    "disponible": true,
    "creado": "2026-08-13",
    "publicado": "2026-08-13",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Belleza",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_12_sept_2026_08_53_51_a.m..png"
   },
@@ -298,7 +310,7 @@
    "disponible": true,
    "creado": "2026-07-29",
    "publicado": "2026-07-29",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Aseo",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_04_57_33_p.m..png"
   },
@@ -310,7 +322,7 @@
    "disponible": true,
    "creado": "2026-06-21",
    "publicado": "2026-06-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Ropa Deportiva",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPTImage21jun2026_01_59_23a.m..png"
   },
@@ -322,7 +334,7 @@
    "disponible": true,
    "creado": "2026-06-20",
    "publicado": "2026-06-20",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Otro",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/magnific__debes-crear-una-imagen-identica-a-esta-img1-pero-v__56883.png"
   },
@@ -334,7 +346,7 @@
    "disponible": true,
    "creado": "2026-02-12",
    "publicado": "2026-02-12",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Belleza",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_05_20_16_p.m..png"
   },
@@ -346,7 +358,7 @@
    "disponible": true,
    "creado": "2026-02-11",
    "publicado": "2026-02-11",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Cocina",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_07_28_08_p.m..png"
   },
@@ -358,7 +370,7 @@
    "disponible": true,
    "creado": "2026-02-05",
    "publicado": "2026-02-05",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Bienestar",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_06_53_06_p.m..png"
   },
@@ -370,7 +382,7 @@
    "disponible": true,
    "creado": "2026-02-05",
    "publicado": "2026-02-05",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Cocina",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_06_35_00_p.m..png"
   },
@@ -382,7 +394,7 @@
    "disponible": true,
    "creado": "2025-12-27",
    "publicado": "2025-12-27",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_06_17_16_p.m..png"
   },
@@ -394,7 +406,7 @@
    "disponible": true,
    "creado": "2025-07-02",
    "publicado": "2025-07-02",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Bienestar",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_06_12_08_p.m..png"
   },
@@ -406,7 +418,7 @@
    "disponible": true,
    "creado": "2025-06-26",
    "publicado": "2025-06-26",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Belleza",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_06_05_20_p.m..png"
   },
@@ -418,7 +430,7 @@
    "disponible": true,
    "creado": "2025-06-20",
    "publicado": "2025-06-20",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_18_sept_2026_08_48_57_p.m..png"
   },
@@ -430,7 +442,7 @@
    "disponible": true,
    "creado": "2025-06-12",
    "publicado": "2025-06-12",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Salud",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_05_55_43_p.m..png"
   },
@@ -442,7 +454,7 @@
    "disponible": true,
    "creado": "2025-04-19",
    "publicado": "2025-04-19",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Salud",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_05_52_49_p.m..png"
   },
@@ -454,7 +466,7 @@
    "disponible": true,
    "creado": "2025-04-17",
    "publicado": "2025-04-17",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_16_sept_2026_10_01_04_p.m..png"
   },
@@ -466,7 +478,7 @@
    "disponible": true,
    "creado": "2025-04-14",
    "publicado": "2025-04-14",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Belleza",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_05_43_29_p.m..png"
   },
@@ -478,7 +490,7 @@
    "disponible": true,
    "creado": "2025-04-14",
    "publicado": "2025-04-14",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Belleza",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_05_24_33_p.m..png"
   },
@@ -490,7 +502,7 @@
    "disponible": true,
    "creado": "2025-04-11",
    "publicado": "2025-04-11",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_05_22_32_p.m..png"
   },
@@ -502,7 +514,7 @@
    "disponible": true,
    "creado": "2025-04-10",
    "publicado": "2025-04-10",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Cocina",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_05_15_29_p.m..png"
   },
@@ -514,7 +526,7 @@
    "disponible": true,
    "creado": "2025-03-27",
    "publicado": "2025-03-27",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Deportes",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_05_10_21_p.m..png"
   },
@@ -526,7 +538,7 @@
    "disponible": true,
    "creado": "2025-03-27",
    "publicado": "2025-03-27",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Sex Shop",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_05_07_56_p.m..png"
   },
@@ -538,7 +550,7 @@
    "disponible": true,
    "creado": "2024-07-23",
    "publicado": "2025-03-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Tecnologia",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_20_sept_2026_02_54_50_p.m..png"
   },
@@ -550,7 +562,7 @@
    "disponible": true,
    "creado": "2024-07-23",
    "publicado": "2025-03-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Tecnologia",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_21_sept_2026_01_11_27_a.m..png"
   },
@@ -562,7 +574,7 @@
    "disponible": true,
    "creado": "2024-07-23",
    "publicado": "2025-03-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Tecnologia",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_21_sept_2026_01_05_29_a.m..png"
   },
@@ -574,7 +586,7 @@
    "disponible": true,
    "creado": "2024-07-22",
    "publicado": "2025-03-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Mascotas",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_20_sept_2026_03_12_42_p.m..png"
   },
@@ -586,7 +598,7 @@
    "disponible": true,
    "creado": "2024-07-19",
    "publicado": "2025-03-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Otro",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_17_sept_2026_12_49_16_p.m..png"
   },
@@ -598,7 +610,7 @@
    "disponible": true,
    "creado": "2024-07-19",
    "publicado": "2025-03-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Moda",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_20_sept_2026_02_57_35_p.m..png"
   },
@@ -610,7 +622,7 @@
    "disponible": true,
    "creado": "2025-01-20",
    "publicado": "2025-03-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Otro",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_04_55_43_p.m..png"
   },
@@ -622,7 +634,7 @@
    "disponible": true,
    "creado": "2025-01-16",
    "publicado": "2025-03-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Moda",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_01_18_43_p.m..png"
   },
@@ -634,7 +646,7 @@
    "disponible": true,
    "creado": "2025-01-14",
    "publicado": "2025-03-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Belleza",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_01_14_31_p.m..png"
   },
@@ -646,7 +658,7 @@
    "disponible": true,
    "creado": "2025-01-13",
    "publicado": "2025-03-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_01_12_15_p.m..png"
   },
@@ -658,7 +670,7 @@
    "disponible": true,
    "creado": "2025-01-13",
    "publicado": "2025-03-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Bisutería",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_01_06_14_p.m..png"
   },
@@ -670,7 +682,7 @@
    "disponible": true,
    "creado": "2025-01-13",
    "publicado": "2025-03-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Otro",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_01_03_00_p.m..png"
   },
@@ -682,7 +694,7 @@
    "disponible": true,
    "creado": "2025-01-13",
    "publicado": "2025-03-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Bisutería",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_12_56_26_p.m..png"
   },
@@ -694,7 +706,7 @@
    "disponible": true,
    "creado": "2025-01-13",
    "publicado": "2025-03-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Belleza",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_12_48_25_p.m..png"
   },
@@ -706,7 +718,7 @@
    "disponible": true,
    "creado": "2025-01-12",
    "publicado": "2025-03-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Salud",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_12_36_46_p.m..png"
   },
@@ -718,7 +730,7 @@
    "disponible": true,
    "creado": "2024-11-29",
    "publicado": "2025-03-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_12_17_01_p.m..png"
   },
@@ -730,7 +742,7 @@
    "disponible": true,
    "creado": "2024-11-26",
    "publicado": "2025-03-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Belleza",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_12_12_54_p.m..png"
   },
@@ -742,7 +754,7 @@
    "disponible": true,
    "creado": "2024-11-26",
    "publicado": "2025-03-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Salud",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_21_sept_2026_01_20_48_a.m..png"
   },
@@ -754,7 +766,7 @@
    "disponible": true,
    "creado": "2024-11-26",
    "publicado": "2025-03-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Vaporizadores",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_21_sept_2026_01_15_12_a.m..png"
   },
@@ -766,7 +778,7 @@
    "disponible": true,
    "creado": "2024-11-21",
    "publicado": "2025-03-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Sex Shop",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_21_sept_2026_01_00_19_a.m..png"
   },
@@ -778,7 +790,7 @@
    "disponible": true,
    "creado": "2024-10-02",
    "publicado": "2025-03-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Bisutería",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_21_sept_2026_12_57_31_a.m..png"
   },
@@ -790,7 +802,7 @@
    "disponible": true,
    "creado": "2024-08-29",
    "publicado": "2025-03-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Belleza",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_21_sept_2026_12_42_15_a.m..png"
   },
@@ -802,7 +814,7 @@
    "disponible": true,
    "creado": "2024-08-28",
    "publicado": "2025-03-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Tecnologia",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_21_sept_2026_12_39_34_a.m..png"
   },
@@ -814,7 +826,7 @@
    "disponible": true,
    "creado": "2024-08-22",
    "publicado": "2025-03-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_20_sept_2026_03_49_03_p.m..png"
   },
@@ -826,7 +838,7 @@
    "disponible": true,
    "creado": "2024-08-19",
    "publicado": "2025-03-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_20_sept_2026_03_36_56_p.m..png"
   },
@@ -838,7 +850,7 @@
    "disponible": true,
    "creado": "2024-08-19",
    "publicado": "2025-03-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Moda",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_20_sept_2026_03_29_54_p.m..png"
   },
@@ -850,7 +862,7 @@
    "disponible": true,
    "creado": "2024-08-18",
    "publicado": "2025-03-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Belleza",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_20_sept_2026_03_25_43_p.m..png"
   },
@@ -862,7 +874,7 @@
    "disponible": true,
    "creado": "2024-08-07",
    "publicado": "2025-03-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Tecnologia",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_20_sept_2026_03_21_41_p.m..png"
   },
@@ -874,7 +886,7 @@
    "disponible": true,
    "creado": "2024-08-07",
    "publicado": "2025-03-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Deportes",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_20_sept_2026_03_18_56_p.m..png"
   },
@@ -886,7 +898,7 @@
    "disponible": true,
    "creado": "2024-08-02",
    "publicado": "2025-03-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_20_sept_2026_03_14_55_p.m..png"
   },
@@ -898,7 +910,7 @@
    "disponible": true,
    "creado": "2024-08-02",
    "publicado": "2025-03-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_20_sept_2026_03_03_24_p.m..png"
   },
@@ -910,7 +922,7 @@
    "disponible": true,
    "creado": "2024-07-24",
    "publicado": "2025-03-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Tecnologia",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_20_sept_2026_03_00_55_p.m..png"
   },
@@ -922,7 +934,7 @@
    "disponible": true,
    "creado": "2024-07-23",
    "publicado": "2025-03-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Tecnologia",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_20_sept_2026_02_55_19_p.m..png"
   },
@@ -934,7 +946,7 @@
    "disponible": true,
    "creado": "2024-07-18",
    "publicado": "2025-03-19",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_20_sept_2026_02_59_14_p.m..png"
   },
@@ -946,7 +958,7 @@
    "disponible": true,
    "creado": "2025-03-14",
    "publicado": "2025-03-14",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Deportes",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_05_02_01_p.m..png"
   },
@@ -958,7 +970,7 @@
    "disponible": true,
    "creado": "2025-01-19",
    "publicado": "2025-01-19",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Belleza",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_22_sept_2026_01_31_36_p.m..png"
   },
@@ -970,7 +982,7 @@
    "disponible": true,
    "creado": "2024-08-30",
    "publicado": "2024-08-30",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0597/9321/1494/files/ChatGPT_Image_21_sept_2026_12_51_49_a.m..png"
   }

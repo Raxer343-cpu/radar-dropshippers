@@ -1,7 +1,19 @@
 {
  "dominio": "pagocuandorecibo.com",
- "fecha": "2026-11-20",
+ "fecha": "2026-11-21",
  "productos": [
+  {
+   "id": 10320444588320,
+   "titulo": "Hidrolavadora eléctrica 2100 libras - 1650 W",
+   "handle": "hidrolavadora-electrica-2100-libras-1650-w",
+   "precio": 500000.0,
+   "disponible": true,
+   "creado": "2026-05-19",
+   "publicado": "2026-11-21",
+   "actualizado": "2026-11-21",
+   "tipo": "Herramientas",
+   "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webpHidrolavadoraelectrica2100Libras-1650WSHOPIFY.webp"
+  },
   {
    "id": 15609001607456,
    "titulo": "Ratchet Inalámbrico 1/2\" PCR - Rojo",
@@ -10,7 +22,7 @@
    "disponible": true,
    "creado": "2026-11-12",
    "publicado": "2026-11-12",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webp_Ratchet_Inalambrico_12_PCR_Rojo_WEB.webp"
   },
@@ -22,7 +34,7 @@
    "disponible": true,
    "creado": "2026-11-12",
    "publicado": "2026-11-12",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webp_Combo_4_Herramientas_Brushless_PCR_Azul_WEB.webp"
   },
@@ -34,7 +46,7 @@
    "disponible": true,
    "creado": "2026-11-11",
    "publicado": "2026-11-11",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webp_Juego_de_Ratchet_12_Carbonizado_Manivela_BBQ_24_Piezas_WEB.webp"
   },
@@ -46,7 +58,7 @@
    "disponible": true,
    "creado": "2026-11-11",
    "publicado": "2026-11-11",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webp_Ratchet_Inalambrico_12_PCR_Azul_WEB.webp"
   },
@@ -58,7 +70,7 @@
    "disponible": true,
    "creado": "2026-11-10",
    "publicado": "2026-11-10",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webp_Combo_4_Herramientas_Brushless_PCR_Amarillo_WEB.webp"
   },
@@ -70,7 +82,7 @@
    "disponible": true,
    "creado": "2026-11-09",
    "publicado": "2026-11-09",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webp_Juego_de_Ratchet_12_Carbonizado_24_Piezas_Negro_WEB.webp"
   },
@@ -82,7 +94,7 @@
    "disponible": true,
    "creado": "2026-11-07",
    "publicado": "2026-11-07",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webp_Juego_de_Copas_de_Impacto_12_35_Piezas_WEB.webp"
   },
@@ -94,7 +106,7 @@
    "disponible": true,
    "creado": "2026-11-06",
    "publicado": "2026-11-06",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webp_Juego_de_Ratchet_12_Carbonizado_24_Piezas_WEB.webp"
   },
@@ -106,7 +118,7 @@
    "disponible": true,
    "creado": "2026-11-05",
    "publicado": "2026-11-05",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webp_Lijadora_Roto-Orbital_Electrica_300W_WEB.webp"
   },
@@ -118,7 +130,7 @@
    "disponible": true,
    "creado": "2026-11-05",
    "publicado": "2026-11-05",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webp_Careta_para_Soldar_Inteligente_Profesional_WEB.webp"
   },
@@ -130,7 +142,7 @@
    "disponible": true,
    "creado": "2026-11-05",
    "publicado": "2026-11-05",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webp_Kit_Taladro_Inalambrico_28_piezas_Mandril_Metalico_38_-_Amarillo_WEB.webp"
   },
@@ -142,7 +154,7 @@
    "disponible": true,
    "creado": "2026-06-03",
    "publicado": "2026-11-04",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webpDiscosminipulidoraparatodoslosmaterialesx8SHOPIFY.webp"
   },
@@ -154,7 +166,7 @@
    "disponible": true,
    "creado": "2026-04-21",
    "publicado": "2026-11-04",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/Juegode10copasparapistoladeimpacto-Cuadrantede1_2.webp"
   },
@@ -166,7 +178,7 @@
    "disponible": true,
    "creado": "2026-10-28",
    "publicado": "2026-10-28",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webp_Juego_de_7_Llaves_Mixtas_Tipo_Ratchet_WEB.webp"
   },
@@ -178,7 +190,7 @@
    "disponible": true,
    "creado": "2026-10-14",
    "publicado": "2026-10-14",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webp_Kit_Pistola_de_Impacto_350_Nm_Azul_-_1_2__Brushless_WEB.webp"
   },
@@ -190,7 +202,7 @@
    "disponible": true,
    "creado": "2026-10-03",
    "publicado": "2026-10-03",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webp_Kit_Taladro_Brushless_Para_Trabajo_Pesado_Profesional_-_ENUM_WEB.webp"
   },
@@ -202,7 +214,7 @@
    "disponible": true,
    "creado": "2026-09-25",
    "publicado": "2026-09-25",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webp_Pistola_de_Impacto_850Nm_Brushless_Trabajo_Pesado_ENUM_WEB.webp"
   },
@@ -214,7 +226,7 @@
    "disponible": true,
    "creado": "2026-09-25",
    "publicado": "2026-09-25",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webp_Pulidora_Inalambrica_Brushless_Trabajo_Pesado_-_ENUM_WEB.webp"
   },
@@ -226,7 +238,7 @@
    "disponible": true,
    "creado": "2026-09-25",
    "publicado": "2026-09-25",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webp_Rotomartillo_Inalambrico_Brushless_Trabajo_Pesado_-_ENUM_WEB.webp"
   },
@@ -238,7 +250,7 @@
    "disponible": true,
    "creado": "2026-09-25",
    "publicado": "2026-09-25",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webp_Rotomartillo_SDS_Plus_Industrial_1.580_W_SHOPIFY.webp"
   },
@@ -250,7 +262,7 @@
    "disponible": true,
    "creado": "2026-09-18",
    "publicado": "2026-09-18",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webp_Kit_de_Pistola_de_Impacto_1_2__Brushless_350_Nm_WEB.webp"
   },
@@ -262,7 +274,7 @@
    "disponible": true,
    "creado": "2026-09-17",
    "publicado": "2026-09-17",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Tecnologia",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webp_Cabina_Parlante_Portatil_Bluetooth_6.5__WEB.webp"
   },
@@ -274,7 +286,7 @@
    "disponible": true,
    "creado": "2026-09-15",
    "publicado": "2026-09-15",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webp_Gato_Hidraulico_Tipo_Zorra_2.5_Toneladas_WEB.webp"
   },
@@ -286,7 +298,7 @@
    "disponible": true,
    "creado": "2025-12-17",
    "publicado": "2026-09-12",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webp28_piezas_Mandril_Metalico_3_8_SHOPIFY_jpg.webp"
   },
@@ -298,7 +310,7 @@
    "disponible": true,
    "creado": "2026-09-08",
    "publicado": "2026-09-08",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webp_Combo_4_Herramientas_Inalambricas_Brushless_rojo_WEB.webp"
   },
@@ -310,7 +322,7 @@
    "disponible": true,
    "creado": "2026-09-07",
    "publicado": "2026-09-07",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webp_Pulidora_Inalambrica_Brushless_4_Velocidades_Amarilla_WEB.webp"
   },
@@ -322,7 +334,7 @@
    "disponible": true,
    "creado": "2026-09-07",
    "publicado": "2026-09-07",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webp_Kit_Taladro_1_2__Brushless_PCR_-_Rojo_WEB.webp"
   },
@@ -334,7 +346,7 @@
    "disponible": true,
    "creado": "2026-08-05",
    "publicado": "2026-09-03",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webpGuadanaInalambrica800WSHOPIFY.webp"
   },
@@ -346,7 +358,7 @@
    "disponible": true,
    "creado": "2026-06-22",
    "publicado": "2026-09-02",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webpContadoradeBilletesPortatilSHOPIFY.webp"
   },
@@ -358,7 +370,7 @@
    "disponible": true,
    "creado": "2026-09-02",
    "publicado": "2026-09-02",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webpSopladorInalambricodeAltoFlujo-2BateriasWEB.webp"
   },
@@ -370,7 +382,7 @@
    "disponible": true,
    "creado": "2026-09-02",
    "publicado": "2026-09-02",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webpComboIniciadordeBateria12V_CompresorInfladordeLlantasWEB.webp"
   },
@@ -382,7 +394,7 @@
    "disponible": true,
    "creado": "2026-08-23",
    "publicado": "2026-08-23",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webpReflectorSolarJortan5000WSHOPIFY.webp"
   },
@@ -394,7 +406,7 @@
    "disponible": true,
    "creado": "2026-08-19",
    "publicado": "2026-08-19",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webpPistoladeImpacto2en1Brushless_3VelocidadesSHOPIFY.webp"
   },
@@ -406,7 +418,7 @@
    "disponible": true,
    "creado": "2026-08-18",
    "publicado": "2026-08-18",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webpKitdeCarretera13PiezasSHOPIFY.webp"
   },
@@ -418,7 +430,7 @@
    "disponible": true,
    "creado": "2026-08-18",
    "publicado": "2026-08-18",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webpJuegode17LlavesMixtasSHOPIFY.webp"
   },
@@ -430,7 +442,7 @@
    "disponible": true,
    "creado": "2026-08-04",
    "publicado": "2026-08-04",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webpROTOMARTILLOELECTRICOSDS800W.SHOPIFY_1.webp"
   },
@@ -442,7 +454,7 @@
    "disponible": true,
    "creado": "2026-07-10",
    "publicado": "2026-07-10",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webpIniciadordeBateriaparaCarro12VSHOPIFY.webp"
   },
@@ -454,7 +466,7 @@
    "disponible": true,
    "creado": "2026-07-04",
    "publicado": "2026-07-04",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webpJuegode12llavesmixtasSHOPIFY.webp"
   },
@@ -466,7 +478,7 @@
    "disponible": true,
    "creado": "2026-07-01",
    "publicado": "2026-07-01",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/PolichadoraInalambrica8velocidades.webp"
   },
@@ -478,7 +490,7 @@
    "disponible": true,
    "creado": "2025-10-15",
    "publicado": "2026-06-26",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webp_profesional_121_piezas_SHOPIFY_jpg.webp"
   },
@@ -490,7 +502,7 @@
    "disponible": true,
    "creado": "2026-06-24",
    "publicado": "2026-06-24",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webpKittaladroyherramientas35piezasSHOPIFY_jpg.webp"
   },
@@ -502,7 +514,7 @@
    "disponible": true,
    "creado": "2026-06-22",
    "publicado": "2026-06-22",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webpKitdeHerramientasparaBicicletaSHOPIFY.webp"
   },
@@ -514,7 +526,7 @@
    "disponible": true,
    "creado": "2026-05-25",
    "publicado": "2026-05-25",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webpInfladorPortatildeLlantasSHOPIFY.webp"
   },
@@ -526,7 +538,7 @@
    "disponible": true,
    "creado": "2026-04-23",
    "publicado": "2026-04-23",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webpMotosierra_Inalambrica_Brushless_PCR_-_12_pulgadas_30_cms_SHOPIFY.webp"
   },
@@ -538,7 +550,7 @@
    "disponible": true,
    "creado": "2026-04-22",
    "publicado": "2026-04-22",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webpKitdeemergenciasautomotriz31piezas.webp"
   },
@@ -550,7 +562,7 @@
    "disponible": true,
    "creado": "2026-04-22",
    "publicado": "2026-04-22",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webpReflector_Panelsolar300w.webp"
   },
@@ -562,7 +574,7 @@
    "disponible": true,
    "creado": "2026-04-22",
    "publicado": "2026-04-22",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Hogar",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webpCajaFuerte8LNegra.webp"
   },
@@ -574,7 +586,7 @@
    "disponible": true,
    "creado": "2026-04-21",
    "publicado": "2026-04-21",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webpRatchet1_2_-12Piezas.webp"
   },
@@ -586,7 +598,7 @@
    "disponible": true,
    "creado": "2026-04-16",
    "publicado": "2026-04-16",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webpKitPistoladeimapctobrushless1_2_-4velocidades.webp"
   },
@@ -598,7 +610,7 @@
    "disponible": true,
    "creado": "2026-03-29",
    "publicado": "2026-03-29",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webpcontador_de_billetes_SHOPIFY_copia_jpg.webp"
   },
@@ -610,7 +622,7 @@
    "disponible": true,
    "creado": "2026-03-20",
    "publicado": "2026-03-20",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webpKitTaladrobrushless1_2PCRSHOPIFY_jpg.webp"
   },
@@ -622,7 +634,7 @@
    "disponible": true,
    "creado": "2025-12-27",
    "publicado": "2025-12-27",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webpHidrolavadora_electrica_de_alta_potencia_1400W_SHOPIFY.webp"
   },
@@ -634,7 +646,7 @@
    "disponible": true,
    "creado": "2025-08-13",
    "publicado": "2025-11-19",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/Kit_Taladro_Inalambrico_pantalla_digital_y_mandril_metalico_de_3_8_SHOPIFY.webp"
   },
@@ -646,7 +658,7 @@
    "disponible": true,
    "creado": "2025-11-19",
    "publicado": "2025-11-19",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Salud",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/CorrectordejuanetesSHOPIFY.webp"
   },
@@ -658,7 +670,7 @@
    "disponible": true,
    "creado": "2025-11-04",
    "publicado": "2025-11-04",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webp108.webp"
   },
@@ -670,7 +682,7 @@
    "disponible": true,
    "creado": "2025-09-29",
    "publicado": "2025-09-29",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webptaladro_y_pulidora_SHOPIFY.webp"
   },
@@ -682,7 +694,7 @@
    "disponible": true,
    "creado": "2025-08-06",
    "publicado": "2025-09-17",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webpMinipulidoraInalambrica3AmarillaSHOPIFY_2.webp"
   },
@@ -694,7 +706,7 @@
    "disponible": true,
    "creado": "2025-09-05",
    "publicado": "2025-09-05",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Otro",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webpPaquete_de_20_discos_de_3_para_metal_-_Para_minipulidora_SHOPIFY.webp"
   },
@@ -706,7 +718,7 @@
    "disponible": true,
    "creado": "2023-12-19",
    "publicado": "2025-08-28",
-   "actualizado": "2026-11-20",
+   "actualizado": "2026-11-21",
    "tipo": "Herramientas",
    "imagen": "https://cdn.shopify.com/s/files/1/0798/4077/2384/files/webp_Minimotosierra_Inalambrica_6_1_cadena_WEB.webp"
   }
