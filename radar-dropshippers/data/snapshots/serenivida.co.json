@@ -1,7 +1,103 @@
 {
  "dominio": "serenivida.co",
- "fecha": "2026-11-25",
+ "fecha": "2026-11-26",
  "productos": [
+  {
+   "id": 8767543967962,
+   "titulo": "´Plantillas ComfyFeet – Disfruta de días sin dolor, sin tratamientos caros ni visitas al médico",
+   "handle": "gp-plantillas-comfyfeet™️-como-caminar-en-las-nubes",
+   "precio": 59999.0,
+   "disponible": true,
+   "creado": "2025-01-18",
+   "publicado": "2026-11-26",
+   "actualizado": "2026-11-26",
+   "tipo": "Bienestar",
+   "imagen": "https://cdn.shopify.com/s/files/1/0715/4850/2234/files/ComfyFeet.png"
+  },
+  {
+   "id": 9055868027098,
+   "titulo": "-Plantillas ComfyFeet Para Juanetes - Disfruta de días sin dolor, sin tratamientos caros ni visitas al médico",
+   "handle": "plantillas-comfyfeet™️-disfruta-de-dias-sin-dolor-sin-tratamientos-caros-ni-visitas-al-medico-black-friday",
+   "precio": 59999.0,
+   "disponible": true,
+   "creado": "2025-10-13",
+   "publicado": "2026-11-26",
+   "actualizado": "2026-11-26",
+   "tipo": "Bienestar",
+   "imagen": "https://cdn.shopify.com/s/files/1/0715/4850/2234/files/ComfyFeet.png"
+  },
+  {
+   "id": 9193235513562,
+   "titulo": ",Plantillas ComfyFeet™ Kids - Cuida el mañana de sus pequeños pies",
+   "handle": "plantillas-comfyfeet™-kids",
+   "precio": 59999.0,
+   "disponible": true,
+   "creado": "2026-03-12",
+   "publicado": "2026-11-26",
+   "actualizado": "2026-11-26",
+   "tipo": "",
+   "imagen": "https://cdn.shopify.com/s/files/1/0715/4850/2234/files/main_pcts_8_e5fd1c9e-82a6-4c14-9a9c-e057fbb32f53.png"
+  },
+  {
+   "id": 10302922326234,
+   "titulo": "*Plantillas ComfyFeet  - Disfruta de días sin dolor, sin tratamientos caros ni visitas al médico.",
+   "handle": "plantillas-comfyfeet™️-para-juanetes-disfruta-de-dias-sin-dolor-sin-tratamientos-caros-ni-visitas-al-medico",
+   "precio": 59999.0,
+   "disponible": true,
+   "creado": "2026-09-22",
+   "publicado": "2026-11-26",
+   "actualizado": "2026-11-26",
+   "tipo": "Bienestar",
+   "imagen": "https://cdn.shopify.com/s/files/1/0715/4850/2234/files/ComfyFeet.png"
+  },
+  {
+   "id": 15268359471322,
+   "titulo": ".Plantillas ComfyFeet Kids - Cuida el mañana de sus pequeños pies",
+   "handle": "plantillas-comfyfeet™-kids-black-friday",
+   "precio": 59999.0,
+   "disponible": true,
+   "creado": "2026-10-12",
+   "publicado": "2026-11-26",
+   "actualizado": "2026-11-26",
+   "tipo": "",
+   "imagen": "https://cdn.shopify.com/s/files/1/0715/4850/2234/files/main_pcts_8_e5fd1c9e-82a6-4c14-9a9c-e057fbb32f53.png"
+  },
+  {
+   "id": 8610194522330,
+   "titulo": "Medias De Compresión™ - Obtén Alivio Instantáneo De Pies Hinchados Y Adoloridos",
+   "handle": "calcetines-de-neuro-compresion",
+   "precio": 69999.0,
+   "disponible": true,
+   "creado": "2024-08-01",
+   "publicado": "2026-11-26",
+   "actualizado": "2026-11-26",
+   "tipo": "Salud",
+   "imagen": "https://cdn.shopify.com/s/files/1/0715/4850/2234/files/Main_calcetines_v_facu_avila_f0012136-cfa1-4ae0-92d3-3d73ea53047e.png"
+  },
+  {
+   "id": 8767283986650,
+   "titulo": "Medias de Neurocompresión –  Obtén Alivio Instantáneo De Pies Hinchados Y Adoloridos",
+   "handle": "medias-de-neurocompresion™-ligereza-en-cada-paso",
+   "precio": 69999.0,
+   "disponible": true,
+   "creado": "2025-01-17",
+   "publicado": "2026-11-26",
+   "actualizado": "2026-11-26",
+   "tipo": "Salud",
+   "imagen": "https://cdn.shopify.com/s/files/1/0715/4850/2234/files/Main_calcetines_v_facu_avila_f0012136-cfa1-4ae0-92d3-3d73ea53047e.png"
+  },
+  {
+   "id": 10302945067226,
+   "titulo": "Medias de Neurocompresión –  Obtén Alivio Instantáneo De Pies Hinchados Y Adoloridos",
+   "handle": "medias-de-neurocompresion™-obten-alivio-instantaneo-de-pies-hinchados-y-adoloridos-black-friday",
+   "precio": 69999.0,
+   "disponible": true,
+   "creado": "2026-09-22",
+   "publicado": "2026-11-26",
+   "actualizado": "2026-11-26",
+   "tipo": "Salud",
+   "imagen": "https://cdn.shopify.com/s/files/1/0715/4850/2234/files/Main_calcetines_v_facu_avila_f0012136-cfa1-4ae0-92d3-3d73ea53047e.png"
+  },
   {
    "id": 15318023962842,
    "titulo": "MOD - 41/42 x 43/44",
@@ -10,21 +106,9 @@
    "disponible": false,
    "creado": "2026-11-09",
    "publicado": "2026-11-09",
-   "actualizado": "2026-11-25",
+   "actualizado": "2026-11-26",
    "tipo": "",
    "imagen": ""
-  },
-  {
-   "id": 15268359471322,
-   "titulo": "Plantillas ComfyFeet Kids - Cuida el mañana de sus pequeños pies",
-   "handle": "plantillas-comfyfeet™-kids-black-friday",
-   "precio": 59999.0,
-   "disponible": true,
-   "creado": "2026-10-12",
-   "publicado": "2026-11-09",
-   "actualizado": "2026-11-25",
-   "tipo": "",
-   "imagen": "https://cdn.shopify.com/s/files/1/0715/4850/2234/files/main_pcts_8_e5fd1c9e-82a6-4c14-9a9c-e057fbb32f53.png"
   },
   {
    "id": 15268384473306,
@@ -34,33 +118,9 @@
    "disponible": true,
    "creado": "2026-10-12",
    "publicado": "2026-10-18",
-   "actualizado": "2026-11-25",
+   "actualizado": "2026-11-26",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0715/4850/2234/files/main_pcts_31.png"
-  },
-  {
-   "id": 10302945067226,
-   "titulo": "Medias de Neurocompresión –  Obtén Alivio Instantáneo De Pies Hinchados Y Adoloridos",
-   "handle": "medias-de-neurocompresion™-obten-alivio-instantaneo-de-pies-hinchados-y-adoloridos-black-friday",
-   "precio": 69999.0,
-   "disponible": true,
-   "creado": "2026-09-22",
-   "publicado": "2026-09-22",
-   "actualizado": "2026-11-25",
-   "tipo": "Salud",
-   "imagen": "https://cdn.shopify.com/s/files/1/0715/4850/2234/files/Main_calcetines_v_facu_avila_f0012136-cfa1-4ae0-92d3-3d73ea53047e.png"
-  },
-  {
-   "id": 10302922326234,
-   "titulo": "Plantillas ComfyFeet  - Disfruta de días sin dolor, sin tratamientos caros ni visitas al médico.",
-   "handle": "plantillas-comfyfeet™️-para-juanetes-disfruta-de-dias-sin-dolor-sin-tratamientos-caros-ni-visitas-al-medico",
-   "precio": 59900.0,
-   "disponible": true,
-   "creado": "2026-09-22",
-   "publicado": "2026-09-22",
-   "actualizado": "2026-11-25",
-   "tipo": "Bienestar",
-   "imagen": "https://cdn.shopify.com/s/files/1/0715/4850/2234/files/ComfyFeet.png"
   },
   {
    "id": 9096523808986,
@@ -70,7 +130,7 @@
    "disponible": true,
    "creado": "2025-11-24",
    "publicado": "2026-08-28",
-   "actualizado": "2026-11-25",
+   "actualizado": "2026-11-26",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0715/4850/2234/files/mainpcts_7.png"
   },
@@ -82,7 +142,7 @@
    "disponible": true,
    "creado": "2026-06-07",
    "publicado": "2026-06-07",
-   "actualizado": "2026-11-25",
+   "actualizado": "2026-11-26",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0715/4850/2234/files/12.png"
   },
@@ -94,33 +154,9 @@
    "disponible": true,
    "creado": "2025-07-27",
    "publicado": "2026-05-12",
-   "actualizado": "2026-11-25",
+   "actualizado": "2026-11-26",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0715/4850/2234/files/12.png"
-  },
-  {
-   "id": 9193235513562,
-   "titulo": "Plantillas ComfyFeet™ Kids - Cuida el mañana de sus pequeños pies",
-   "handle": "plantillas-comfyfeet™-kids",
-   "precio": 59999.0,
-   "disponible": true,
-   "creado": "2026-03-12",
-   "publicado": "2026-03-12",
-   "actualizado": "2026-11-25",
-   "tipo": "",
-   "imagen": "https://cdn.shopify.com/s/files/1/0715/4850/2234/files/main_pcts_8_e5fd1c9e-82a6-4c14-9a9c-e057fbb32f53.png"
-  },
-  {
-   "id": 9055868027098,
-   "titulo": "Plantillas ComfyFeet Para Juanetes - Disfruta de días sin dolor, sin tratamientos caros ni visitas al médico",
-   "handle": "plantillas-comfyfeet™️-disfruta-de-dias-sin-dolor-sin-tratamientos-caros-ni-visitas-al-medico-black-friday",
-   "precio": 59999.0,
-   "disponible": true,
-   "creado": "2025-10-13",
-   "publicado": "2025-10-13",
-   "actualizado": "2026-11-25",
-   "tipo": "Bienestar",
-   "imagen": "https://cdn.shopify.com/s/files/1/0715/4850/2234/files/ComfyFeet.png"
   },
   {
    "id": 9038186840282,
@@ -130,7 +166,7 @@
    "disponible": true,
    "creado": "2025-10-02",
    "publicado": "2025-10-02",
-   "actualizado": "2026-11-25",
+   "actualizado": "2026-11-26",
    "tipo": "Salud",
    "imagen": "https://cdn.shopify.com/s/files/1/0715/4850/2234/files/aliviflex-acelera-la-alineacion-de-tus-juanetes-mientras-duermes-1709975.jpg"
   },
@@ -142,7 +178,7 @@
    "disponible": true,
    "creado": "2025-07-02",
    "publicado": "2025-08-28",
-   "actualizado": "2026-11-25",
+   "actualizado": "2026-11-26",
    "tipo": "Salud",
    "imagen": "https://cdn.shopify.com/s/files/1/0715/4850/2234/files/Main_calcetines_v_facu_avila_2.png"
   },
@@ -154,45 +190,9 @@
    "disponible": true,
    "creado": "2024-11-10",
    "publicado": "2025-02-01",
-   "actualizado": "2026-11-25",
+   "actualizado": "2026-11-26",
    "tipo": "Bienestar",
    "imagen": "https://cdn.shopify.com/s/files/1/0715/4850/2234/files/Mockup_-_Parche_para_pies_-_Frente.png"
-  },
-  {
-   "id": 8767543967962,
-   "titulo": "Plantillas ComfyFeet – Disfruta de días sin dolor, sin tratamientos caros ni visitas al médico",
-   "handle": "gp-plantillas-comfyfeet™️-como-caminar-en-las-nubes",
-   "precio": 59999.0,
-   "disponible": true,
-   "creado": "2025-01-18",
-   "publicado": "2025-01-18",
-   "actualizado": "2026-11-25",
-   "tipo": "Bienestar",
-   "imagen": "https://cdn.shopify.com/s/files/1/0715/4850/2234/files/ComfyFeet.png"
-  },
-  {
-   "id": 8767283986650,
-   "titulo": "Medias de Neurocompresión –  Obtén Alivio Instantáneo De Pies Hinchados Y Adoloridos",
-   "handle": "medias-de-neurocompresion™-ligereza-en-cada-paso",
-   "precio": 69999.0,
-   "disponible": true,
-   "creado": "2025-01-17",
-   "publicado": "2025-01-18",
-   "actualizado": "2026-11-25",
-   "tipo": "Salud",
-   "imagen": "https://cdn.shopify.com/s/files/1/0715/4850/2234/files/Main_calcetines_v_facu_avila_f0012136-cfa1-4ae0-92d3-3d73ea53047e.png"
-  },
-  {
-   "id": 8621248512218,
-   "titulo": "Plantillas ComfyFeet™️ - Disfruta de días sin dolor, sin tratamientos caros ni visitas al médico...",
-   "handle": "plantillas-comfyfeet",
-   "precio": 59900.0,
-   "disponible": true,
-   "creado": "2024-08-13",
-   "publicado": "2024-10-26",
-   "actualizado": "2026-11-25",
-   "tipo": "Bienestar",
-   "imagen": "https://cdn.shopify.com/s/files/1/0715/4850/2234/files/ComfyFeet.png"
   },
   {
    "id": 8621247922394,
@@ -202,7 +202,7 @@
    "disponible": true,
    "creado": "2024-08-13",
    "publicado": "2024-09-30",
-   "actualizado": "2026-11-25",
+   "actualizado": "2026-11-26",
    "tipo": "Salud",
    "imagen": "https://cdn.shopify.com/s/files/1/0715/4850/2234/files/Mainfaja.png"
   },
@@ -214,21 +214,9 @@
    "disponible": false,
    "creado": "2024-08-13",
    "publicado": "2024-08-18",
-   "actualizado": "2026-11-25",
+   "actualizado": "2026-11-26",
    "tipo": "Salud",
    "imagen": "https://cdn.shopify.com/s/files/1/0715/4850/2234/files/Maincalcetines_2.png"
-  },
-  {
-   "id": 8610194522330,
-   "titulo": "Medias De Compresión™ - Obtén Alivio Instantáneo De Pies Hinchados Y Adoloridos",
-   "handle": "calcetines-de-neuro-compresion",
-   "precio": 69999.0,
-   "disponible": true,
-   "creado": "2024-08-01",
-   "publicado": "2024-08-18",
-   "actualizado": "2026-11-25",
-   "tipo": "Salud",
-   "imagen": "https://cdn.shopify.com/s/files/1/0715/4850/2234/files/Main_calcetines_v_facu_avila_f0012136-cfa1-4ae0-92d3-3d73ea53047e.png"
   }
  ]
 }
