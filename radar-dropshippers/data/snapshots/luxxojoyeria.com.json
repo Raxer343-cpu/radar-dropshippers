@@ -1,6 +1,6 @@
 {
  "dominio": "luxxojoyeria.com",
- "fecha": "2026-11-27",
+ "fecha": "2026-11-28",
  "productos": [
   {
    "id": 15544639488178,
@@ -10,7 +10,7 @@
    "disponible": true,
    "creado": "2026-11-25",
    "publicado": "2026-11-25",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/CARTER_MEDALLA_CRISTO.jpg"
   },
@@ -22,7 +22,7 @@
    "disponible": true,
    "creado": "2025-09-23",
    "publicado": "2026-11-25",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DIJE_RELIEVE.jpg"
   },
@@ -34,7 +34,7 @@
    "disponible": true,
    "creado": "2025-11-07",
    "publicado": "2026-11-23",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC07352.jpg"
   },
@@ -46,8 +46,8 @@
    "disponible": true,
    "creado": "2026-10-01",
    "publicado": "2026-11-23",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Dije_cruz_diamantes.png"
   },
   {
@@ -58,7 +58,7 @@
    "disponible": true,
    "creado": "2025-12-27",
    "publicado": "2026-11-19",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/argolla_doble.png"
   },
@@ -70,7 +70,7 @@
    "disponible": true,
    "creado": "2025-09-23",
    "publicado": "2026-11-17",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DIJE_MEDALLA_CRISTO.jpg"
   },
@@ -82,7 +82,7 @@
    "disponible": true,
    "creado": "2026-10-01",
    "publicado": "2026-11-17",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Cadena_Atomo_Dama...jpg"
   },
@@ -94,7 +94,7 @@
    "disponible": true,
    "creado": "2026-11-14",
    "publicado": "2026-11-14",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "Bisutería",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Dije_Espada_Alada.webp"
   },
@@ -106,7 +106,7 @@
    "disponible": true,
    "creado": "2026-11-14",
    "publicado": "2026-11-14",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "Bisutería",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Dije_Crucifijo_San_Benito.webp"
   },
@@ -118,7 +118,7 @@
    "disponible": true,
    "creado": "2026-11-14",
    "publicado": "2026-11-14",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "Bisutería",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Dije_Cruz_014.webp"
   },
@@ -130,7 +130,7 @@
    "disponible": true,
    "creado": "2026-11-14",
    "publicado": "2026-11-14",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "Bisutería",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Dije_San_Judas_Tadeo_cd.webp"
   },
@@ -142,7 +142,7 @@
    "disponible": true,
    "creado": "2026-11-14",
    "publicado": "2026-11-14",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Dije_Fe.webp"
   },
@@ -154,7 +154,7 @@
    "disponible": true,
    "creado": "2026-11-14",
    "publicado": "2026-11-14",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "Bisutería",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Dije_Bolsa_Dinero.webp"
   },
@@ -166,7 +166,7 @@
    "disponible": true,
    "creado": "2026-11-14",
    "publicado": "2026-11-14",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "Bisutería",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Dije_Placa_Cristo.webp"
   },
@@ -178,7 +178,7 @@
    "disponible": true,
    "creado": "2025-03-07",
    "publicado": "2026-11-03",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC00086.jpg"
   },
@@ -190,7 +190,7 @@
    "disponible": true,
    "creado": "2025-11-07",
    "publicado": "2026-10-28",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC07441.jpg"
   },
@@ -202,7 +202,7 @@
    "disponible": true,
    "creado": "2025-07-15",
    "publicado": "2026-10-21",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/pulsera-bloques-hombre_gamusa_negra.png"
   },
@@ -214,7 +214,7 @@
    "disponible": true,
    "creado": "2025-07-15",
    "publicado": "2026-10-17",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/2026-02-28-17-17-corazon_redondo-02.png"
   },
@@ -226,7 +226,7 @@
    "disponible": true,
    "creado": "2025-03-07",
    "publicado": "2026-10-12",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC05408.jpg"
   },
@@ -238,7 +238,7 @@
    "disponible": true,
    "creado": "2025-11-15",
    "publicado": "2026-10-08",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC08032.jpg"
   },
@@ -250,7 +250,7 @@
    "disponible": true,
    "creado": "2025-11-15",
    "publicado": "2026-10-08",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/manilla-tres-carriles---6_generado.png"
   },
@@ -262,7 +262,7 @@
    "disponible": true,
    "creado": "2026-10-01",
    "publicado": "2026-10-01",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Pulsera_Virgen_Guadalupe..jpg"
   },
@@ -274,7 +274,7 @@
    "disponible": true,
    "creado": "2026-10-01",
    "publicado": "2026-10-01",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/49af71fe-2d63-44d0-9e3a-5fe643f8a9da.jpg"
   },
@@ -286,7 +286,7 @@
    "disponible": true,
    "creado": "2026-10-01",
    "publicado": "2026-10-01",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/luxxo-camandula3oros.jpg"
   },
@@ -298,8 +298,8 @@
    "disponible": true,
    "creado": "2026-10-01",
    "publicado": "2026-10-01",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Dije_San_Benito.png"
   },
   {
@@ -310,8 +310,8 @@
    "disponible": true,
    "creado": "2026-10-01",
    "publicado": "2026-10-01",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Dije_RX_Diamantes.png"
   },
   {
@@ -322,8 +322,8 @@
    "disponible": true,
    "creado": "2026-10-01",
    "publicado": "2026-10-01",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Dije_Caballo_2.png"
   },
   {
@@ -334,8 +334,8 @@
    "disponible": true,
    "creado": "2026-10-01",
    "publicado": "2026-10-01",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Dije_Cono.png"
   },
   {
@@ -346,8 +346,8 @@
    "disponible": true,
    "creado": "2026-10-01",
    "publicado": "2026-10-01",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Dije_Cruz_013..png"
   },
   {
@@ -358,8 +358,8 @@
    "disponible": true,
    "creado": "2026-10-01",
    "publicado": "2026-10-01",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Dije_Cruz_013_Corregida..png"
   },
   {
@@ -370,8 +370,8 @@
    "disponible": true,
    "creado": "2026-10-01",
    "publicado": "2026-10-01",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Dije_Sagrado_Corazon.png"
   },
   {
@@ -382,8 +382,8 @@
    "disponible": true,
    "creado": "2026-10-01",
    "publicado": "2026-10-01",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Dije_Cruz_Mini.png"
   },
   {
@@ -394,8 +394,8 @@
    "disponible": true,
    "creado": "2026-10-01",
    "publicado": "2026-10-01",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Dije_Oracion.png"
   },
   {
@@ -406,8 +406,8 @@
    "disponible": true,
    "creado": "2026-10-01",
    "publicado": "2026-10-01",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Dije_Guadalupe_Corazon.png"
   },
   {
@@ -418,8 +418,8 @@
    "disponible": true,
    "creado": "2026-10-01",
    "publicado": "2026-10-01",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Dije_Placa_Cristo_Nacarada.png"
   },
   {
@@ -430,8 +430,8 @@
    "disponible": true,
    "creado": "2026-10-01",
    "publicado": "2026-10-01",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Dije_Estrella_De_Mar..png"
   },
   {
@@ -442,8 +442,8 @@
    "disponible": true,
    "creado": "2026-10-01",
    "publicado": "2026-10-01",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Dije_Dinero..png"
   },
   {
@@ -454,8 +454,8 @@
    "disponible": true,
    "creado": "2026-10-01",
    "publicado": "2026-10-01",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Dije_Caballo_2_Corregido.jpg"
   },
   {
@@ -466,8 +466,8 @@
    "disponible": true,
    "creado": "2026-10-01",
    "publicado": "2026-10-01",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Dije_Medalla_Jesus.png"
   },
   {
@@ -478,8 +478,8 @@
    "disponible": true,
    "creado": "2026-10-01",
    "publicado": "2026-10-01",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Dije_Cruz_Diamante_Esmeralda.jpg"
   },
   {
@@ -490,8 +490,8 @@
    "disponible": true,
    "creado": "2026-10-01",
    "publicado": "2026-10-01",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Dije_Medalla_Caballo.png"
   },
   {
@@ -502,8 +502,8 @@
    "disponible": true,
    "creado": "2026-10-01",
    "publicado": "2026-10-01",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Dije_Jesus.png"
   },
   {
@@ -514,8 +514,8 @@
    "disponible": true,
    "creado": "2026-10-01",
    "publicado": "2026-10-01",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Dije_Osito.png"
   },
   {
@@ -526,8 +526,8 @@
    "disponible": true,
    "creado": "2026-10-01",
    "publicado": "2026-10-01",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/dije_placa_grabada...jpg"
   },
   {
@@ -538,8 +538,8 @@
    "disponible": true,
    "creado": "2026-10-01",
    "publicado": "2026-10-01",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/dije_medalla_milagrosa.png"
   },
   {
@@ -550,8 +550,8 @@
    "disponible": true,
    "creado": "2026-10-01",
    "publicado": "2026-10-01",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Dije_CRUZ_NACAR.png"
   },
   {
@@ -562,8 +562,8 @@
    "disponible": true,
    "creado": "2026-10-01",
    "publicado": "2026-10-01",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Dije_cruz_012.png"
   },
   {
@@ -574,7 +574,7 @@
    "disponible": true,
    "creado": "2026-09-27",
    "publicado": "2026-09-27",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/PHOTO-2026-09-27-17-39-25.jpg"
   },
@@ -586,7 +586,7 @@
    "disponible": true,
    "creado": "2025-09-23",
    "publicado": "2026-09-25",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DIJE_CRISTO_PIEDRAS.jpg"
   },
@@ -598,7 +598,7 @@
    "disponible": true,
    "creado": "2025-01-07",
    "publicado": "2026-09-25",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC05572.jpg"
   },
@@ -610,7 +610,7 @@
    "disponible": true,
    "creado": "2025-09-23",
    "publicado": "2026-09-25",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DIJE_HERRADURA.jpg"
   },
@@ -622,7 +622,7 @@
    "disponible": true,
    "creado": "2025-09-23",
    "publicado": "2026-09-25",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DIJE_CRUZ_LAZO.jpg"
   },
@@ -634,7 +634,7 @@
    "disponible": true,
    "creado": "2025-09-23",
    "publicado": "2026-09-25",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DIJE_CRUZ_PIEDRAS.jpg"
   },
@@ -646,7 +646,7 @@
    "disponible": true,
    "creado": "2025-02-03",
    "publicado": "2026-09-25",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC05541.jpg"
   },
@@ -658,7 +658,7 @@
    "disponible": true,
    "creado": "2025-01-07",
    "publicado": "2026-09-25",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Dije-Cruz_negra_2.png"
   },
@@ -670,7 +670,7 @@
    "disponible": true,
    "creado": "2025-07-15",
    "publicado": "2026-09-25",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/dijen_cruz_011.jpg"
   },
@@ -682,7 +682,7 @@
    "disponible": true,
    "creado": "2025-07-15",
    "publicado": "2026-09-25",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/dije_gladiador.png"
   },
@@ -694,7 +694,7 @@
    "disponible": true,
    "creado": "2025-09-23",
    "publicado": "2026-09-25",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/VIRGEN_DIJE_PIEDRAS.jpg"
   },
@@ -706,7 +706,7 @@
    "disponible": true,
    "creado": "2026-03-09",
    "publicado": "2026-09-24",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/MILITAR_diamantada_modelo_H.jpg"
   },
@@ -718,8 +718,8 @@
    "disponible": true,
    "creado": "2026-09-21",
    "publicado": "2026-09-21",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Dije_Placa_Cruz...jpg"
   },
   {
@@ -730,8 +730,8 @@
    "disponible": true,
    "creado": "2026-09-21",
    "publicado": "2026-09-21",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/dije_cruz_esmeraldas_2.jpg"
   },
   {
@@ -742,8 +742,8 @@
    "disponible": true,
    "creado": "2026-09-21",
    "publicado": "2026-09-21",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/dije_leon_corona.jpg"
   },
   {
@@ -754,7 +754,7 @@
    "disponible": true,
    "creado": "2026-09-20",
    "publicado": "2026-09-20",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/promocol2-00001.jpg"
   },
@@ -766,7 +766,7 @@
    "disponible": true,
    "creado": "2026-09-20",
    "publicado": "2026-09-20",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/promocol1-00001.jpg"
   },
@@ -778,7 +778,7 @@
    "disponible": true,
    "creado": "2026-09-18",
    "publicado": "2026-09-18",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "Bisutería",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/pulso_esmeraldas...jpg"
   },
@@ -790,7 +790,7 @@
    "disponible": true,
    "creado": "2026-09-18",
    "publicado": "2026-09-18",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "Bisutería",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/pulso_tenis_diamantes.jpg"
   },
@@ -802,7 +802,7 @@
    "disponible": true,
    "creado": "2026-09-18",
    "publicado": "2026-09-18",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "Bisutería",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/pulso_unisex_diamantes...jpg"
   },
@@ -814,7 +814,7 @@
    "disponible": true,
    "creado": "2026-09-18",
    "publicado": "2026-09-18",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/anillo_cubano...jpg"
   },
@@ -826,7 +826,7 @@
    "disponible": true,
    "creado": "2026-09-18",
    "publicado": "2026-09-18",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Anillo_Chinesco.jpg"
   },
@@ -838,7 +838,7 @@
    "disponible": false,
    "creado": "2026-09-10",
    "publicado": "2026-09-10",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/LUXXO-cajas-magneticas-2.jpg"
   },
@@ -850,7 +850,7 @@
    "disponible": true,
    "creado": "2026-09-09",
    "publicado": "2026-09-09",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/cadena-cubana-nino.jpg"
   },
@@ -862,7 +862,7 @@
    "disponible": true,
    "creado": "2026-09-09",
    "publicado": "2026-09-09",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/cadena-Chinesca-nina.jpg"
   },
@@ -874,7 +874,7 @@
    "disponible": true,
    "creado": "2026-09-09",
    "publicado": "2026-09-09",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/cadena-china-nina.jpg"
   },
@@ -886,7 +886,7 @@
    "disponible": true,
    "creado": "2026-09-09",
    "publicado": "2026-09-09",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/CadenaFrancoNina.jpg"
   },
@@ -898,7 +898,7 @@
    "disponible": true,
    "creado": "2026-09-09",
    "publicado": "2026-09-09",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/CadenaEscamaNino.jpg"
   },
@@ -910,7 +910,7 @@
    "disponible": true,
    "creado": "2026-09-09",
    "publicado": "2026-09-09",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/cadena-egipcia-nina2.jpg"
   },
@@ -922,7 +922,7 @@
    "disponible": true,
    "creado": "2026-09-09",
    "publicado": "2026-09-09",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "Bisutería",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/cadena-cubos-nino.jpg"
   },
@@ -934,7 +934,7 @@
    "disponible": true,
    "creado": "2026-09-09",
    "publicado": "2026-09-09",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/CadenaVenecianaNinos.jpg"
   },
@@ -946,7 +946,7 @@
    "disponible": true,
    "creado": "2026-09-09",
    "publicado": "2026-09-09",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/CadenaMilitarNino.jpg"
   },
@@ -958,7 +958,7 @@
    "disponible": true,
    "creado": "2026-09-09",
    "publicado": "2026-09-09",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "Bisutería",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/CadenaLazoNina.jpg"
   },
@@ -970,7 +970,7 @@
    "disponible": true,
    "creado": "2026-09-09",
    "publicado": "2026-09-09",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/CadenaGrabadaNina.jpg"
   },
@@ -982,7 +982,7 @@
    "disponible": true,
    "creado": "2025-03-16",
    "publicado": "2026-09-08",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Franco_65_cm_2.jpg"
   },
@@ -994,7 +994,7 @@
    "disponible": true,
    "creado": "2025-03-16",
    "publicado": "2026-09-08",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/pulsera-franco-hombre_gamusa_negra.png"
   },
@@ -1006,7 +1006,7 @@
    "disponible": true,
    "creado": "2026-09-07",
    "publicado": "2026-09-07",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/PHOTO-2026-09-07-11-58-44.jpg"
   },
@@ -1018,7 +1018,7 @@
    "disponible": true,
    "creado": "2025-09-23",
    "publicado": "2026-08-26",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DIJE_ROSTRO.jpg"
   },
@@ -1030,7 +1030,7 @@
    "disponible": true,
    "creado": "2024-10-20",
    "publicado": "2026-08-26",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC00823.jpg"
   },
@@ -1042,7 +1042,7 @@
    "disponible": true,
    "creado": "2024-10-17",
    "publicado": "2026-08-26",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/lazo_pano_6_mm.png"
   },
@@ -1054,7 +1054,7 @@
    "disponible": true,
    "creado": "2024-10-20",
    "publicado": "2026-08-26",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Combo_Cubana_6_mm_1.jpg"
   },
@@ -1066,7 +1066,7 @@
    "disponible": true,
    "creado": "2024-10-17",
    "publicado": "2026-08-26",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/hf_20260310_024710_ba2022fa-16d1-4161-b53e-96db521fcdeb.jpg"
   },
@@ -1078,7 +1078,7 @@
    "disponible": true,
    "creado": "2024-10-20",
    "publicado": "2026-08-19",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC00887.jpg"
   },
@@ -1090,7 +1090,7 @@
    "disponible": true,
    "creado": "2024-10-17",
    "publicado": "2026-08-19",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC00889.jpg"
   },
@@ -1102,7 +1102,7 @@
    "disponible": true,
    "creado": "2025-03-13",
    "publicado": "2026-08-19",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/cb_ancla_dama.png"
   },
@@ -1114,7 +1114,7 @@
    "disponible": true,
    "creado": "2025-03-13",
    "publicado": "2026-08-19",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Luxxojoyeria-marzo-304_fae9e36b-0b9b-4f99-aca5-213a367cff20.jpg"
   },
@@ -1126,7 +1126,7 @@
    "disponible": true,
    "creado": "2024-10-17",
    "publicado": "2026-08-19",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Pulsera_Cubana_Hombre.jpg"
   },
@@ -1138,7 +1138,7 @@
    "disponible": true,
    "creado": "2024-10-20",
    "publicado": "2026-08-19",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC06829_modelo.png"
   },
@@ -1150,7 +1150,7 @@
    "disponible": true,
    "creado": "2024-10-17",
    "publicado": "2026-08-19",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Luxxojoyeria-marzo-254_cd52dfae-b1c5-47a6-87fa-040a1e4a2bb6.jpg"
   },
@@ -1162,7 +1162,7 @@
    "disponible": true,
    "creado": "2024-10-17",
    "publicado": "2026-08-19",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/lazo_rosa_modelo.jpg"
   },
@@ -1174,7 +1174,7 @@
    "disponible": true,
    "creado": "2025-03-16",
    "publicado": "2026-08-19",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Luxxojoyeria-marzo-181.jpgTOBILLERALAZO3MM25CM.jpg"
   },
@@ -1186,7 +1186,7 @@
    "disponible": true,
    "creado": "2024-10-20",
    "publicado": "2026-08-19",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC00481.jpg"
   },
@@ -1198,7 +1198,7 @@
    "disponible": true,
    "creado": "2024-10-17",
    "publicado": "2026-08-19",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/pulsera-rustica-hombre-4mm_gamusa_negra.png"
   },
@@ -1210,33 +1210,9 @@
    "disponible": true,
    "creado": "2025-07-15",
    "publicado": "2026-08-19",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/hf_20260310_021804_6ae90ad3-7500-47cd-ac1e-0de3b599e8a7.jpg"
-  },
-  {
-   "id": 8539941666994,
-   "titulo": "Pulsera Chinesca PREMIUM Mujer",
-   "handle": "pulsera-chinesca-premium-mujer",
-   "precio": 104925.0,
-   "disponible": false,
-   "creado": "2025-07-15",
-   "publicado": "2026-08-19",
-   "actualizado": "2026-11-27",
-   "tipo": "General",
-   "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/pulsera_chinesca_premium_3_mm_17_cm.jpg"
-  },
-  {
-   "id": 8539935473842,
-   "titulo": "Combo Chinesca PREMIUM Mujer",
-   "handle": "combo-chinesca-premium-mujer",
-   "precio": 202425.0,
-   "disponible": true,
-   "creado": "2025-07-15",
-   "publicado": "2026-08-19",
-   "actualizado": "2026-11-27",
-   "tipo": "General",
-   "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/cb_ch_prem_pano_dama.jpg"
   },
   {
    "id": 8411072594098,
@@ -1246,7 +1222,7 @@
    "disponible": true,
    "creado": "2025-02-03",
    "publicado": "2026-08-19",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC05557.jpg"
   },
@@ -1258,7 +1234,7 @@
    "disponible": true,
    "creado": "2025-09-23",
    "publicado": "2026-08-19",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DIJE_ROSTRO_JESUS.jpg"
   },
@@ -1270,7 +1246,7 @@
    "disponible": true,
    "creado": "2025-09-23",
    "publicado": "2026-08-19",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DIJE_VIRGEN.jpg"
   },
@@ -1282,8 +1258,8 @@
    "disponible": true,
    "creado": "2025-09-23",
    "publicado": "2026-08-19",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DIJE_CRISTO.jpg"
   },
   {
@@ -1294,7 +1270,7 @@
    "disponible": true,
    "creado": "2024-10-20",
    "publicado": "2026-08-19",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC00549.jpg"
   },
@@ -1302,11 +1278,11 @@
    "id": 8332948537522,
    "titulo": "Cadena Grano de Café Hombre",
    "handle": "cadena-granocafe-hombre",
-   "precio": 179925.0,
+   "precio": 148700.0,
    "disponible": true,
    "creado": "2024-10-17",
    "publicado": "2026-08-19",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/gucci_hombre.jpg"
   },
@@ -1318,7 +1294,7 @@
    "disponible": true,
    "creado": "2025-09-23",
    "publicado": "2026-08-19",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DIJE_JESUS_RESUCITADO.jpg"
   },
@@ -1326,11 +1302,11 @@
    "id": 8332828475570,
    "titulo": "Cadena Cubana Hombre",
    "handle": "cadena-cubana-hombre",
-   "precio": 164925.0,
+   "precio": 148000.0,
    "disponible": true,
    "creado": "2024-10-17",
    "publicado": "2026-08-09",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "Cadena",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Cubana_9mm_modelo.jpg"
   },
@@ -1342,7 +1318,7 @@
    "disponible": true,
    "creado": "2026-07-22",
    "publicado": "2026-08-02",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/ManillaRxsencilla.png"
   },
@@ -1354,7 +1330,7 @@
    "disponible": true,
    "creado": "2026-07-22",
    "publicado": "2026-08-02",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/ManillaColombiaTriple..png"
   },
@@ -1366,7 +1342,7 @@
    "disponible": true,
    "creado": "2026-07-22",
    "publicado": "2026-08-02",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/ManillaAzulCorazon...png"
   },
@@ -1378,7 +1354,7 @@
    "disponible": true,
    "creado": "2026-07-22",
    "publicado": "2026-08-02",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/ManillatripleDinero...png"
   },
@@ -1390,7 +1366,7 @@
    "disponible": true,
    "creado": "2026-07-22",
    "publicado": "2026-08-02",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/ManillaFlorHiloRosa.png"
   },
@@ -1402,7 +1378,7 @@
    "disponible": true,
    "creado": "2026-07-22",
    "publicado": "2026-08-02",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/ManillaSanBenitoHiloRojo..png"
   },
@@ -1414,7 +1390,7 @@
    "disponible": true,
    "creado": "2026-07-22",
    "publicado": "2026-08-02",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/ManillaCorazonHiloRosa...png"
   },
@@ -1426,7 +1402,7 @@
    "disponible": true,
    "creado": "2026-07-22",
    "publicado": "2026-08-02",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/ManillaFlorCombinada..png"
   },
@@ -1438,7 +1414,7 @@
    "disponible": true,
    "creado": "2026-07-22",
    "publicado": "2026-08-02",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/ManillaDinero.png"
   },
@@ -1450,7 +1426,7 @@
    "disponible": true,
    "creado": "2026-07-22",
    "publicado": "2026-08-02",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/ManilladobleRx.png"
   },
@@ -1462,7 +1438,7 @@
    "disponible": true,
    "creado": "2025-03-13",
    "publicado": "2026-07-30",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Luxxojoyeria-marzo-67_64203bc6-9dcd-49ec-8af4-e0e013a4a268.jpg"
   },
@@ -1474,7 +1450,7 @@
    "disponible": true,
    "creado": "2026-07-27",
    "publicado": "2026-07-27",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "Bisutería",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/manillaespiralrosa_e6ec8683-f007-483b-99fe-1aecfaaf6089.png"
   },
@@ -1486,7 +1462,7 @@
    "disponible": true,
    "creado": "2026-07-22",
    "publicado": "2026-07-27",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/ManillanudosRx..png"
   },
@@ -1498,7 +1474,7 @@
    "disponible": true,
    "creado": "2026-07-22",
    "publicado": "2026-07-27",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Manillatejidaazulplana...png"
   },
@@ -1510,7 +1486,7 @@
    "disponible": true,
    "creado": "2026-07-22",
    "publicado": "2026-07-27",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/ManillaOsoHiloAzul.png"
   },
@@ -1522,7 +1498,7 @@
    "disponible": true,
    "creado": "2026-07-22",
    "publicado": "2026-07-27",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/ManillaOsoHiloRosa..png"
   },
@@ -1534,7 +1510,7 @@
    "disponible": false,
    "creado": "2026-07-22",
    "publicado": "2026-07-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/ManillaSanBenito.png"
   },
@@ -1546,7 +1522,7 @@
    "disponible": true,
    "creado": "2025-03-16",
    "publicado": "2026-07-05",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Luxxojoyeria-marzo-288_1637f2d0-d46d-4a76-be50-20623fbe4958.jpg"
   },
@@ -1558,7 +1534,7 @@
    "disponible": true,
    "creado": "2026-07-01",
    "publicado": "2026-07-01",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/manillaColombiapareja_5y_6-2.png"
   },
@@ -1570,7 +1546,7 @@
    "disponible": true,
    "creado": "2026-07-01",
    "publicado": "2026-07-01",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/LUXXO-manilla-colombia-8B-_6-2.jpg"
   },
@@ -1582,7 +1558,7 @@
    "disponible": true,
    "creado": "2026-07-01",
    "publicado": "2026-07-01",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/LUXXO-manilla-colombia-combinado-_5.png"
   },
@@ -1594,7 +1570,7 @@
    "disponible": true,
    "creado": "2026-06-25",
    "publicado": "2026-06-25",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/PHOTO-2026-06-25-11-10-09_1.jpg"
   },
@@ -1606,7 +1582,7 @@
    "disponible": true,
    "creado": "2026-06-24",
    "publicado": "2026-06-24",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/dije7.jpg"
   },
@@ -1618,7 +1594,7 @@
    "disponible": true,
    "creado": "2026-06-24",
    "publicado": "2026-06-24",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/dije1.jpg"
   },
@@ -1630,7 +1606,7 @@
    "disponible": true,
    "creado": "2026-06-24",
    "publicado": "2026-06-24",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/dije2.png"
   },
@@ -1642,7 +1618,7 @@
    "disponible": true,
    "creado": "2026-06-24",
    "publicado": "2026-06-24",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/dije9.png"
   },
@@ -1654,8 +1630,8 @@
    "disponible": true,
    "creado": "2026-06-24",
    "publicado": "2026-06-24",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/dije4.jpg"
   },
   {
@@ -1666,8 +1642,8 @@
    "disponible": true,
    "creado": "2026-06-24",
    "publicado": "2026-06-24",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/dije3.jpg"
   },
   {
@@ -1678,7 +1654,7 @@
    "disponible": true,
    "creado": "2026-06-24",
    "publicado": "2026-06-24",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/dije5.png"
   },
@@ -1690,7 +1666,7 @@
    "disponible": true,
    "creado": "2026-06-24",
    "publicado": "2026-06-24",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/dije6.jpg"
   },
@@ -1702,7 +1678,7 @@
    "disponible": true,
    "creado": "2026-06-24",
    "publicado": "2026-06-24",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/dije8.jpg"
   },
@@ -1714,7 +1690,7 @@
    "disponible": true,
    "creado": "2026-06-23",
    "publicado": "2026-06-23",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/4.png"
   },
@@ -1726,7 +1702,7 @@
    "disponible": true,
    "creado": "2026-06-23",
    "publicado": "2026-06-23",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/3_1f460172-c252-429b-8fb7-f3d7f87fbac6.png"
   },
@@ -1738,7 +1714,7 @@
    "disponible": true,
    "creado": "2025-09-23",
    "publicado": "2026-06-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DIJE_CRUZ_FARAON.jpg"
   },
@@ -1750,7 +1726,7 @@
    "disponible": true,
    "creado": "2025-09-23",
    "publicado": "2026-06-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DIJE_CABALLO_PIEDRAS.jpg"
   },
@@ -1762,7 +1738,7 @@
    "disponible": true,
    "creado": "2025-02-03",
    "publicado": "2026-06-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC05552.jpg"
   },
@@ -1774,7 +1750,7 @@
    "disponible": true,
    "creado": "2025-03-07",
    "publicado": "2026-06-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/China_5mm_pano_negro.jpg"
   },
@@ -1786,7 +1762,7 @@
    "disponible": true,
    "creado": "2025-03-13",
    "publicado": "2026-06-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Barbada_pano_negro.png"
   },
@@ -1798,7 +1774,7 @@
    "disponible": true,
    "creado": "2024-10-20",
    "publicado": "2026-06-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC00859.jpg"
   },
@@ -1810,7 +1786,7 @@
    "disponible": true,
    "creado": "2024-10-20",
    "publicado": "2026-06-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Combo_Veneciana_6_mm_3.jpg"
   },
@@ -1822,7 +1798,7 @@
    "disponible": true,
    "creado": "2024-10-17",
    "publicado": "2026-06-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/pulsera-veneciana-hombre_gamusa_negra.png"
   },
@@ -1834,7 +1810,7 @@
    "disponible": true,
    "creado": "2024-10-20",
    "publicado": "2026-06-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/08_egipcia.png"
   },
@@ -1846,7 +1822,7 @@
    "disponible": true,
    "creado": "2024-10-17",
    "publicado": "2026-06-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC00744.jpg"
   },
@@ -1858,7 +1834,7 @@
    "disponible": true,
    "creado": "2024-10-20",
    "publicado": "2026-06-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/CB_Chinesca_dama_modelo.png"
   },
@@ -1870,7 +1846,7 @@
    "disponible": true,
    "creado": "2024-10-17",
    "publicado": "2026-06-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/2026-02-28-17-08-chinesca-03.png"
   },
@@ -1882,7 +1858,7 @@
    "disponible": true,
    "creado": "2025-03-16",
    "publicado": "2026-06-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/cb_lazo_rosa_dama.png"
   },
@@ -1894,7 +1870,7 @@
    "disponible": true,
    "creado": "2025-03-16",
    "publicado": "2026-06-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Luxxojoyeria-marzo-294_995b3592-fc24-418d-8bee-6452504091c1.jpg"
   },
@@ -1906,7 +1882,7 @@
    "disponible": true,
    "creado": "2025-03-13",
    "publicado": "2026-05-19",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Luxxojoyeria-marzo-113_bca72dfa-c720-44e4-886f-916120b86732.jpg"
   },
@@ -1918,7 +1894,7 @@
    "disponible": true,
    "creado": "2026-03-10",
    "publicado": "2026-03-10",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/dije_pistola.png"
   },
@@ -1930,7 +1906,7 @@
    "disponible": true,
    "creado": "2026-03-09",
    "publicado": "2026-03-09",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/militar_diamantada_pano_D.jpg"
   },
@@ -1942,7 +1918,7 @@
    "disponible": true,
    "creado": "2026-02-22",
    "publicado": "2026-02-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/pack-2-manillas-diamantadas--hilo-negro---hilo-roj_generado.png"
   },
@@ -1954,7 +1930,7 @@
    "disponible": true,
    "creado": "2026-02-22",
    "publicado": "2026-02-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/manilla-hilo-negro-diamantada-18-b_generado.png"
   },
@@ -1966,7 +1942,7 @@
    "disponible": true,
    "creado": "2026-02-11",
    "publicado": "2026-02-11",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/hf_20260319_002951_6be56b03-722e-4ab8-a503-8989a1724ebb.jpg"
   },
@@ -1978,7 +1954,7 @@
    "disponible": true,
    "creado": "2025-12-27",
    "publicado": "2025-12-27",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Vc_Trebol_Mixto_Mujer.jpg"
   },
@@ -1990,7 +1966,7 @@
    "disponible": true,
    "creado": "2025-12-27",
    "publicado": "2025-12-27",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/hf_20260228_015349_acf41aec-0a14-436a-ab30-35d66acef7a9.png"
   },
@@ -2002,7 +1978,7 @@
    "disponible": true,
    "creado": "2025-12-27",
    "publicado": "2025-12-27",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/trebol-enlazado_cuello.png"
   },
@@ -2014,7 +1990,7 @@
    "disponible": true,
    "creado": "2025-12-20",
    "publicado": "2025-12-20",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC07014.jpg"
   },
@@ -2026,7 +2002,7 @@
    "disponible": true,
    "creado": "2025-12-20",
    "publicado": "2025-12-20",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC07001.jpg"
   },
@@ -2038,7 +2014,7 @@
    "disponible": true,
    "creado": "2025-12-20",
    "publicado": "2025-12-20",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC06990.jpg"
   },
@@ -2050,7 +2026,7 @@
    "disponible": true,
    "creado": "2025-12-20",
    "publicado": "2025-12-20",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC06979.jpg"
   },
@@ -2062,7 +2038,7 @@
    "disponible": true,
    "creado": "2025-12-19",
    "publicado": "2025-12-19",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC06938.jpg"
   },
@@ -2074,7 +2050,7 @@
    "disponible": true,
    "creado": "2025-12-19",
    "publicado": "2025-12-19",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC06663.jpg"
   },
@@ -2086,7 +2062,7 @@
    "disponible": true,
    "creado": "2025-12-19",
    "publicado": "2025-12-19",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC06645.jpg"
   },
@@ -2098,7 +2074,7 @@
    "disponible": true,
    "creado": "2025-12-19",
    "publicado": "2025-12-19",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC06647.jpg"
   },
@@ -2110,7 +2086,7 @@
    "disponible": true,
    "creado": "2025-12-19",
    "publicado": "2025-12-19",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC06635.jpg"
   },
@@ -2122,7 +2098,7 @@
    "disponible": true,
    "creado": "2025-12-19",
    "publicado": "2025-12-19",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC06729.jpg"
   },
@@ -2134,7 +2110,7 @@
    "disponible": true,
    "creado": "2025-12-19",
    "publicado": "2025-12-19",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC06858.jpg"
   },
@@ -2146,7 +2122,7 @@
    "disponible": true,
    "creado": "2025-12-19",
    "publicado": "2025-12-19",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC06850.jpg"
   },
@@ -2158,7 +2134,7 @@
    "disponible": true,
    "creado": "2025-12-19",
    "publicado": "2025-12-19",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC06835.jpg"
   },
@@ -2170,7 +2146,7 @@
    "disponible": true,
    "creado": "2025-12-19",
    "publicado": "2025-12-19",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/trebol-triple_ref1_cuello.png"
   },
@@ -2182,7 +2158,7 @@
    "disponible": true,
    "creado": "2025-12-19",
    "publicado": "2025-12-19",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/vc-trebol-blanco_ref2_pano.png"
   },
@@ -2194,7 +2170,7 @@
    "disponible": true,
    "creado": "2025-12-19",
    "publicado": "2025-12-19",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/vc-trebol_ref2_pano.png"
   },
@@ -2206,7 +2182,7 @@
    "disponible": true,
    "creado": "2025-12-19",
    "publicado": "2025-12-19",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Trebol_Mujer.png"
   },
@@ -2218,7 +2194,7 @@
    "disponible": true,
    "creado": "2025-03-13",
    "publicado": "2025-12-09",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Gemini_Generated_Image_64g0ib64g0ib64g0.png"
   },
@@ -2230,7 +2206,7 @@
    "disponible": true,
    "creado": "2025-11-15",
    "publicado": "2025-11-15",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC07999.jpg"
   },
@@ -2242,7 +2218,7 @@
    "disponible": true,
    "creado": "2025-05-15",
    "publicado": "2025-11-05",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/manilla-big-diamantada-9b--8mm-_generado.png"
   },
@@ -2254,7 +2230,7 @@
    "disponible": true,
    "creado": "2025-05-15",
    "publicado": "2025-11-05",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC09468.jpg"
   },
@@ -2266,7 +2242,7 @@
    "disponible": true,
    "creado": "2025-05-15",
    "publicado": "2025-11-05",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/hf_20260306_034157_73ccbc99-fd62-47c4-a6e1-0eb893cf8be1.jpg"
   },
@@ -2278,7 +2254,7 @@
    "disponible": true,
    "creado": "2024-10-17",
    "publicado": "2025-10-31",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/pulsera-grano-de-cafe-hombre_gamusa_negra.png"
   },
@@ -2290,7 +2266,7 @@
    "disponible": true,
    "creado": "2025-05-15",
    "publicado": "2025-10-31",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Manilla_Limited_11B_6_y_8mm.png"
   },
@@ -2302,7 +2278,7 @@
    "disponible": true,
    "creado": "2025-05-15",
    "publicado": "2025-10-31",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/manilla-italo-diamantada-16b--6-y-5mm----1b--8mm-_generado.png"
   },
@@ -2314,7 +2290,7 @@
    "disponible": true,
    "creado": "2025-10-20",
    "publicado": "2025-10-20",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/manilla-diamantada-entrelazada-12-b--8mm-_generado.png"
   },
@@ -2326,8 +2302,8 @@
    "disponible": true,
    "creado": "2025-09-23",
    "publicado": "2025-09-23",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DIJE_CRUZ_ROSTRO.jpg"
   },
   {
@@ -2338,7 +2314,7 @@
    "disponible": true,
    "creado": "2025-09-23",
    "publicado": "2025-09-23",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DIJE_SAN_FRANCISCO_DE_ASIS.jpg"
   },
@@ -2350,7 +2326,7 @@
    "disponible": true,
    "creado": "2025-09-23",
    "publicado": "2025-09-23",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DIJE_REVOLVER.jpg"
   },
@@ -2362,7 +2338,7 @@
    "disponible": true,
    "creado": "2025-09-23",
    "publicado": "2025-09-23",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DIJE_DOLAR.jpg"
   },
@@ -2374,7 +2350,7 @@
    "disponible": true,
    "creado": "2025-09-23",
    "publicado": "2025-09-23",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DIJE_DOLAR_PIEDRAS.jpg"
   },
@@ -2386,7 +2362,7 @@
    "disponible": true,
    "creado": "2025-09-23",
    "publicado": "2025-09-23",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Singapur.jpg"
   },
@@ -2398,7 +2374,7 @@
    "disponible": true,
    "creado": "2025-09-23",
    "publicado": "2025-09-23",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/singapur_pano_1040.png"
   },
@@ -2410,7 +2386,7 @@
    "disponible": true,
    "creado": "2025-09-23",
    "publicado": "2025-09-23",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/china_dama_pano.png"
   },
@@ -2422,7 +2398,7 @@
    "disponible": true,
    "creado": "2025-07-29",
    "publicado": "2025-07-29",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC00944.jpg"
   },
@@ -2434,7 +2410,7 @@
    "disponible": true,
    "creado": "2025-07-29",
    "publicado": "2025-07-29",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC00935.jpg"
   },
@@ -2446,7 +2422,7 @@
    "disponible": true,
    "creado": "2025-07-11",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/TRIGO_3_MM_60_CM_DIJE_VIRGEN_GUADALUPE.jpg"
   },
@@ -2458,7 +2434,7 @@
    "disponible": true,
    "creado": "2025-07-11",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/TRIGO_3_MM_60_CM_DIJE_SAN_JOSE.jpg"
   },
@@ -2470,7 +2446,7 @@
    "disponible": true,
    "creado": "2025-07-11",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/TRIGO_3_MM_60_CM_DIJE_SAN_JUDAS_TADEO.jpg"
   },
@@ -2482,7 +2458,7 @@
    "disponible": true,
    "creado": "2025-07-11",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/TRIGO_3_MM_60_CM_DIJE_CRUZ_EGIPCIA.jpg"
   },
@@ -2494,7 +2470,7 @@
    "disponible": true,
    "creado": "2025-07-15",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Tobillera_mariposas.jpg"
   },
@@ -2506,7 +2482,7 @@
    "disponible": true,
    "creado": "2025-07-15",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Tobillera_mariposa_perla.jpg"
   },
@@ -2518,7 +2494,7 @@
    "disponible": true,
    "creado": "2025-07-15",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Tobillera_mariposa_blanca.jpg"
   },
@@ -2530,7 +2506,7 @@
    "disponible": true,
    "creado": "2025-07-15",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Tobillera_latidos.jpg"
   },
@@ -2542,7 +2518,7 @@
    "disponible": true,
    "creado": "2025-07-15",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Tobillera_corazones.jpg"
   },
@@ -2554,8 +2530,8 @@
    "disponible": true,
    "creado": "2025-07-15",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/dije_ojo.jpg"
   },
   {
@@ -2566,8 +2542,8 @@
    "disponible": true,
    "creado": "2025-07-15",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Dije_mano.jpg"
   },
   {
@@ -2578,8 +2554,8 @@
    "disponible": true,
    "creado": "2025-07-15",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/dije_estrella.jpg"
   },
   {
@@ -2590,8 +2566,8 @@
    "disponible": true,
    "creado": "2025-07-15",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/dije_elefante.jpg"
   },
   {
@@ -2602,8 +2578,8 @@
    "disponible": true,
    "creado": "2025-07-15",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Dije_colombia_2.jpg"
   },
   {
@@ -2614,7 +2590,7 @@
    "disponible": true,
    "creado": "2025-07-15",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/cruz_009.jpg"
   },
@@ -2626,7 +2602,7 @@
    "disponible": true,
    "creado": "2025-07-15",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/cruz_008.jpg"
   },
@@ -2638,7 +2614,7 @@
    "disponible": true,
    "creado": "2025-07-15",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/cruz_007.jpg"
   },
@@ -2650,7 +2626,7 @@
    "disponible": true,
    "creado": "2025-07-15",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/cruz_006_1.jpg"
   },
@@ -2662,7 +2638,7 @@
    "disponible": true,
    "creado": "2025-07-15",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/cruz_005.jpg"
   },
@@ -2671,11 +2647,11 @@
    "titulo": "Dije Cruz 004",
    "handle": "dije-cruz-004",
    "precio": 89925.0,
-   "disponible": true,
+   "disponible": false,
    "creado": "2025-07-15",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/cruz_004.jpg"
   },
   {
@@ -2686,7 +2662,7 @@
    "disponible": true,
    "creado": "2025-07-15",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/cruz_003.jpg"
   },
@@ -2698,7 +2674,7 @@
    "disponible": true,
    "creado": "2025-07-15",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Cruz_002.jpg"
   },
@@ -2710,7 +2686,7 @@
    "disponible": true,
    "creado": "2025-07-15",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/combo_box_dama.png"
   },
@@ -2722,7 +2698,7 @@
    "disponible": true,
    "creado": "2025-07-15",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/hf_20260319_001956_872aebda-7c9d-4c28-a16b-81ee2c3c196a.png"
   },
@@ -2734,7 +2710,7 @@
    "disponible": true,
    "creado": "2025-07-15",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/2026-02-28-18-31-grano_de_cafe-01.png"
   },
@@ -2746,7 +2722,7 @@
    "disponible": true,
    "creado": "2025-07-15",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/cordon_hombre_modelo.jpg"
   },
@@ -2758,7 +2734,7 @@
    "disponible": true,
    "creado": "2025-07-15",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/CH_PREM_Pano.png"
   },
@@ -2770,7 +2746,7 @@
    "disponible": true,
    "creado": "2025-07-15",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/box_modelo.png"
   },
@@ -2782,7 +2758,7 @@
    "disponible": true,
    "creado": "2025-07-15",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC00565.jpg"
   },
@@ -2794,7 +2770,7 @@
    "disponible": true,
    "creado": "2025-07-15",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/aros_3mm_17_cm.jpg"
   },
@@ -2806,7 +2782,7 @@
    "disponible": true,
    "creado": "2025-07-11",
    "publicado": "2025-07-22",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Cruz_001.jpg"
   },
@@ -2818,7 +2794,7 @@
    "disponible": true,
    "creado": "2025-07-15",
    "publicado": "2025-07-21",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Tobillera_ojos2.jpg"
   },
@@ -2830,7 +2806,7 @@
    "disponible": true,
    "creado": "2024-10-17",
    "publicado": "2025-07-05",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Grabada_Mujer.jpg"
   },
@@ -2842,7 +2818,7 @@
    "disponible": true,
    "creado": "2025-01-06",
    "publicado": "2025-05-15",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/2026-02-28-18-35-lazo-01.png"
   },
@@ -2854,7 +2830,7 @@
    "disponible": true,
    "creado": "2025-03-16",
    "publicado": "2025-03-16",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/12_veneciana.png"
   },
@@ -2866,7 +2842,7 @@
    "disponible": true,
    "creado": "2025-03-16",
    "publicado": "2025-03-16",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/veneciana_ref1_pano.png"
   },
@@ -2878,7 +2854,7 @@
    "disponible": true,
    "creado": "2025-03-16",
    "publicado": "2025-03-16",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Luxxojoyeria-marzo-182.jpgTOBILLERASERPIENTE4NN25CM.jpg"
   },
@@ -2890,7 +2866,7 @@
    "disponible": true,
    "creado": "2025-03-16",
    "publicado": "2025-03-16",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/ovalo_pano.jpg"
   },
@@ -2902,7 +2878,7 @@
    "disponible": true,
    "creado": "2025-03-16",
    "publicado": "2025-03-16",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/2026-02-28-18-37-lazo_rosa-02.png"
   },
@@ -2914,7 +2890,7 @@
    "disponible": true,
    "creado": "2025-03-16",
    "publicado": "2025-03-16",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Luxxojoyeria-marzo-301_aafc40f7-817b-4ee0-94d7-1a1af4796b3c.jpg"
   },
@@ -2926,7 +2902,7 @@
    "disponible": true,
    "creado": "2025-03-13",
    "publicado": "2025-03-13",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Clip_gamusa.jpg"
   },
@@ -2938,7 +2914,7 @@
    "disponible": true,
    "creado": "2025-03-13",
    "publicado": "2025-03-13",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/clip_modelo_hombre.jpg"
   },
@@ -2950,7 +2926,7 @@
    "disponible": true,
    "creado": "2025-03-13",
    "publicado": "2025-03-13",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Luxxojoyeria-marzo-305_e31924d6-a9db-4230-a5f7-5ffedde2726b.jpg"
   },
@@ -2962,7 +2938,7 @@
    "disponible": true,
    "creado": "2025-03-13",
    "publicado": "2025-03-13",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Luxxojoyeria-marzo-58.jpg_114PULLVTREBOL.jpg"
   },
@@ -2974,7 +2950,7 @@
    "disponible": true,
    "creado": "2025-03-13",
    "publicado": "2025-03-13",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Luxxojoyeria-marzo-52.jpg_105.jpg"
   },
@@ -2986,7 +2962,7 @@
    "disponible": true,
    "creado": "2025-03-13",
    "publicado": "2025-03-13",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Luxxojoyeria-marzo-47_87b474f0-0469-407c-b0b9-858d2b349305.jpg"
   },
@@ -2998,7 +2974,7 @@
    "disponible": true,
    "creado": "2025-03-13",
    "publicado": "2025-03-13",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Luxxojoyeria-marzo-14_42.jpg"
   },
@@ -3010,7 +2986,7 @@
    "disponible": true,
    "creado": "2025-03-13",
    "publicado": "2025-03-13",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Luxxojoyeria-marzo-29_3ad1fb8e-6bf9-42ba-9803-c27f8367dcc6.jpg"
   },
@@ -3022,7 +2998,7 @@
    "disponible": true,
    "creado": "2025-03-10",
    "publicado": "2025-03-10",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Luxxojoyeria-marzo-1_00a63074-f79c-4dc5-93b3-c2f5f5b100ec.jpg"
   },
@@ -3034,7 +3010,7 @@
    "disponible": true,
    "creado": "2025-03-07",
    "publicado": "2025-03-07",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/2026-02-28-18-43-militar-04_1.png"
   },
@@ -3046,7 +3022,7 @@
    "disponible": true,
    "creado": "2025-03-07",
    "publicado": "2025-03-07",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/militar_modelo_5_mm.jpg"
   },
@@ -3058,7 +3034,7 @@
    "disponible": true,
    "creado": "2025-03-07",
    "publicado": "2025-03-07",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC00775.jpg"
   },
@@ -3070,7 +3046,7 @@
    "disponible": true,
    "creado": "2025-03-07",
    "publicado": "2025-03-07",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Luxxojoyeria-marzo-180.jpgPULVENECIANA2MM17CM.jpg"
   },
@@ -3082,7 +3058,7 @@
    "disponible": true,
    "creado": "2025-03-06",
    "publicado": "2025-03-06",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Luxxojoyeria-marzo-55_046fc216-36b9-4160-8d08-082dc8e128c6.jpg"
   },
@@ -3094,7 +3070,7 @@
    "disponible": true,
    "creado": "2025-02-03",
    "publicado": "2025-02-03",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC05544.jpg"
   },
@@ -3106,7 +3082,7 @@
    "disponible": true,
    "creado": "2025-02-03",
    "publicado": "2025-02-03",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC05563.jpg"
   },
@@ -3118,8 +3094,8 @@
    "disponible": true,
    "creado": "2025-02-03",
    "publicado": "2025-02-03",
-   "actualizado": "2026-11-27",
-   "tipo": "",
+   "actualizado": "2026-11-28",
+   "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC05568.jpg"
   },
   {
@@ -3130,7 +3106,7 @@
    "disponible": true,
    "creado": "2025-01-07",
    "publicado": "2025-01-07",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC05579.jpg"
   },
@@ -3142,7 +3118,7 @@
    "disponible": true,
    "creado": "2025-01-07",
    "publicado": "2025-01-07",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC05574.jpg"
   },
@@ -3154,7 +3130,7 @@
    "disponible": true,
    "creado": "2025-01-07",
    "publicado": "2025-01-07",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Camandula_Grande_7bfe99b3-2e0c-4bc6-ab71-35b5eb190931.jpg"
   },
@@ -3166,7 +3142,7 @@
    "disponible": true,
    "creado": "2025-01-07",
    "publicado": "2025-01-07",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/camandula-mediana_generado.png"
   },
@@ -3178,7 +3154,7 @@
    "disponible": true,
    "creado": "2025-01-06",
    "publicado": "2025-01-06",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Pulsera_Grano_de_Cafe__Mujer.jpg"
   },
@@ -3190,7 +3166,7 @@
    "disponible": true,
    "creado": "2025-01-06",
    "publicado": "2025-01-06",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/lazo_beige_premium_2.png"
   },
@@ -3202,7 +3178,7 @@
    "disponible": true,
    "creado": "2025-01-06",
    "publicado": "2025-01-06",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/hf_20260227_013953_8e4f155c-661a-418a-8ccb-5a05ecfba541.jpg"
   },
@@ -3214,7 +3190,7 @@
    "disponible": true,
    "creado": "2025-01-06",
    "publicado": "2025-01-06",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/eslabon_ls.jpg"
   },
@@ -3226,7 +3202,7 @@
    "disponible": true,
    "creado": "2025-01-06",
    "publicado": "2025-01-06",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/escama_LS.jpg"
   },
@@ -3238,7 +3214,7 @@
    "disponible": true,
    "creado": "2025-01-06",
    "publicado": "2025-01-06",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/escama_dama.png"
   },
@@ -3250,7 +3226,7 @@
    "disponible": true,
    "creado": "2025-01-06",
    "publicado": "2025-01-06",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/trigo_modelo.jpg"
   },
@@ -3262,7 +3238,7 @@
    "disponible": true,
    "creado": "2025-01-06",
    "publicado": "2025-01-06",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/trigo_ref2_pano.png"
   },
@@ -3274,7 +3250,7 @@
    "disponible": true,
    "creado": "2025-01-06",
    "publicado": "2025-01-06",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Franco_modelo.jpg"
   },
@@ -3286,7 +3262,7 @@
    "disponible": true,
    "creado": "2025-01-06",
    "publicado": "2025-01-06",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Franco_Mujer.jpg"
   },
@@ -3298,7 +3274,7 @@
    "disponible": true,
    "creado": "2025-01-06",
    "publicado": "2025-01-06",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/roma_pano.jpg"
   },
@@ -3310,7 +3286,7 @@
    "disponible": true,
    "creado": "2025-01-06",
    "publicado": "2025-01-06",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/roma_1040.png"
   },
@@ -3318,11 +3294,11 @@
    "id": 8332949094578,
    "titulo": "Cadena Grabada Hombre",
    "handle": "cadena-grabada-hombre",
-   "precio": 179925.0,
+   "precio": 148700.0,
    "disponible": true,
    "creado": "2024-10-17",
    "publicado": "2024-12-20",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/grabadaa.png"
   },
@@ -3334,7 +3310,7 @@
    "disponible": true,
    "creado": "2024-10-20",
    "publicado": "2024-12-11",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC00515.jpg"
   },
@@ -3346,7 +3322,7 @@
    "disponible": true,
    "creado": "2024-10-17",
    "publicado": "2024-12-11",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/vene_modelo.jpg"
   },
@@ -3358,7 +3334,7 @@
    "disponible": true,
    "creado": "2024-10-20",
    "publicado": "2024-10-20",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Combo_Cubana_3_mm_1_modelo.png"
   },
@@ -3370,7 +3346,7 @@
    "disponible": true,
    "creado": "2024-10-20",
    "publicado": "2024-10-20",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Combo_Egipcia_6_mm_1.jpg"
   },
@@ -3382,7 +3358,7 @@
    "disponible": true,
    "creado": "2024-10-20",
    "publicado": "2024-10-20",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/DSC00601.jpg"
   },
@@ -3394,7 +3370,7 @@
    "disponible": true,
    "creado": "2024-10-17",
    "publicado": "2024-10-17",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/rustica_beige_premium_1.png"
   },
@@ -3406,7 +3382,7 @@
    "disponible": true,
    "creado": "2024-10-17",
    "publicado": "2024-10-17",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/chinesca_beige_premium_1.png"
   },
@@ -3418,7 +3394,7 @@
    "disponible": true,
    "creado": "2024-10-17",
    "publicado": "2024-10-17",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/cubana_beige_premium_2.png"
   },
@@ -3430,7 +3406,7 @@
    "disponible": true,
    "creado": "2024-10-17",
    "publicado": "2024-10-17",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Pulsera_Egipcia_Hombre.jpg"
   },
@@ -3442,7 +3418,7 @@
    "disponible": true,
    "creado": "2024-10-17",
    "publicado": "2024-10-17",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/4_mm.png"
   },
@@ -3454,7 +3430,7 @@
    "disponible": true,
    "creado": "2024-10-17",
    "publicado": "2024-10-17",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/image_14.jpg"
   },
@@ -3466,7 +3442,7 @@
    "disponible": true,
    "creado": "2024-10-17",
    "publicado": "2024-10-17",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Rustica_Mujer.png"
   },
@@ -3478,7 +3454,7 @@
    "disponible": true,
    "creado": "2024-10-17",
    "publicado": "2024-10-17",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/2026-02-28-17-23-egipcia-02.png"
   },
@@ -3490,7 +3466,7 @@
    "disponible": true,
    "creado": "2024-10-17",
    "publicado": "2024-10-17",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/cart_pano.png"
   },
@@ -3502,7 +3478,7 @@
    "disponible": true,
    "creado": "2024-10-17",
    "publicado": "2024-10-17",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/Cubana_Mujer.jpg"
   },
@@ -3514,7 +3490,7 @@
    "disponible": true,
    "creado": "2024-10-17",
    "publicado": "2024-10-17",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/rustica_6mm_pano.jpg"
   },
@@ -3526,7 +3502,7 @@
    "disponible": true,
    "creado": "2024-10-17",
    "publicado": "2024-10-17",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "Bisutería",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/egipcia_rosa_modelo.jpg"
   },
@@ -3538,7 +3514,7 @@
    "disponible": true,
    "creado": "2024-10-17",
    "publicado": "2024-10-17",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "Bisutería",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/egipcio.jpg"
   },
@@ -3550,7 +3526,7 @@
    "disponible": true,
    "creado": "2024-10-17",
    "publicado": "2024-10-17",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/chinesca_6_mm_modelo_lifestyle.jpg"
   },
@@ -3562,7 +3538,7 @@
    "disponible": true,
    "creado": "2024-10-17",
    "publicado": "2024-10-17",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/cartier_6mm_modelo.jpg"
   },
@@ -3574,7 +3550,7 @@
    "disponible": true,
    "creado": "2024-10-17",
    "publicado": "2024-10-17",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/lazo_4mm.png"
   },
@@ -3586,7 +3562,7 @@
    "disponible": true,
    "creado": "2024-10-17",
    "publicado": "2024-10-17",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "",
    "imagen": "https://cdn.shopify.com/s/files/1/0676/9990/0594/files/serpiente_pano_6mm.jpg"
   }

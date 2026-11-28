@@ -1,6 +1,6 @@
 {
  "dominio": "c6ac4e.myshopify.com",
- "fecha": "2026-11-27",
+ "fecha": "2026-11-28",
  "productos": [
   {
    "id": 15440090399039,
@@ -10,33 +10,9 @@
    "disponible": true,
    "creado": "2026-10-15",
    "publicado": "2026-10-15",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "Tecnologia",
    "imagen": "https://cdn.shopify.com/s/files/1/0839/9110/1759/files/1_proyector_valdiado_al_100.png"
-  },
-  {
-   "id": 10632062533951,
-   "titulo": "👶💧 Combo Bebé 2 en 1: Kit de Aseo + Tapete de Agua",
-   "handle": "👶💧-combo-bebe-2-en-1-kit-de-aseo-tapete-de-agua",
-   "precio": 59900.0,
-   "disponible": true,
-   "creado": "2026-09-14",
-   "publicado": "2026-09-14",
-   "actualizado": "2026-11-27",
-   "tipo": "",
-   "imagen": "https://cdn.shopify.com/s/files/1/0839/9110/1759/files/1_KIT_BEBE.png"
-  },
-  {
-   "id": 10596879270207,
-   "titulo": "⚡ COMBO: Cargador Inteligente + Mini Compresor",
-   "handle": "⚡-combo-cargador-inteligente-mini-compresor",
-   "precio": 79900.0,
-   "disponible": true,
-   "creado": "2026-08-27",
-   "publicado": "2026-08-27",
-   "actualizado": "2026-11-27",
-   "tipo": "Vehículos",
-   "imagen": "https://cdn.shopify.com/s/files/1/0839/9110/1759/files/1_db5fbc74-6263-41b8-b44d-3a3a47827c78.png"
   },
   {
    "id": 10475536351551,
@@ -46,69 +22,9 @@
    "disponible": true,
    "creado": "2026-06-23",
    "publicado": "2026-06-23",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
    "imagen": "https://cdn.shopify.com/s/files/1/0839/9110/1759/files/1_COMBO_JBL_ACTUALIZADO.png"
-  },
-  {
-   "id": 10472002912575,
-   "titulo": "😍 Kit de Barbería 9 en 1: Máquina de Corte + Afeitadora 3 en 1 + Accesorios.😍",
-   "handle": "😍-kit-de-barberia-9-en-1-maquina-de-corte-afeitadora-3-en-1-accesorios😍",
-   "precio": 69900.0,
-   "disponible": true,
-   "creado": "2026-06-21",
-   "publicado": "2026-06-21",
-   "actualizado": "2026-11-27",
-   "tipo": "General",
-   "imagen": "https://cdn.shopify.com/s/files/1/0839/9110/1759/files/M-quina-de-Afeitar-Kemei-3-en-1_cdcfb48d-5f97-44a7-a287-03b47b6ef092.png"
-  },
-  {
-   "id": 10443690115391,
-   "titulo": "Combo Diadema Max + Termo inteligente 😍✅🚨",
-   "handle": "combo-diadema-max-termo-inteligente-😍✅🚨",
-   "precio": 59900.0,
-   "disponible": true,
-   "creado": "2026-06-09",
-   "publicado": "2026-06-09",
-   "actualizado": "2026-11-27",
-   "tipo": "",
-   "imagen": "https://cdn.shopify.com/s/files/1/0839/9110/1759/files/5_f59c1ae9-c671-4979-b17c-467ec8596f12.png"
-  },
-  {
-   "id": 10435014295871,
-   "titulo": "COMBO 11 EN 1  X2 RELOJES + AIRPODS +7 PULSOS + ACCESORIOS😍",
-   "handle": "combo-11-en-1-x2-relojes-airpods-7-pulsos-accesorios😍",
-   "precio": 69900.0,
-   "disponible": true,
-   "creado": "2026-06-04",
-   "publicado": "2026-06-04",
-   "actualizado": "2026-11-27",
-   "tipo": "Tecnologia",
-   "imagen": "https://cdn.shopify.com/s/files/1/0839/9110/1759/files/1_COMBO_I80_MEKORAD.png"
-  },
-  {
-   "id": 10421134393663,
-   "titulo": "🎁PACK RIÑONERA IMPERMEABLE USB +AUDIFONOS F9+ TERMO INTELIGENTE+SMARTWATCH OBSEQUIO 🎁",
-   "handle": "🎁pack-rinonera-impermeable-usb-audifonos-f9-termo-inteligente-smartwatch-obsequio-🎁",
-   "precio": 79900.0,
-   "disponible": true,
-   "creado": "2026-05-29",
-   "publicado": "2026-05-29",
-   "actualizado": "2026-11-27",
-   "tipo": "Tecnologia",
-   "imagen": "https://cdn.shopify.com/s/files/1/0839/9110/1759/files/PORTADA-F9-MALETA-1_62e659f9-a466-41f1-ae1e-5c775ee2b624.png"
-  },
-  {
-   "id": 10421125349695,
-   "titulo": "🎁COMBO MALETIN IMPERMEABLE/ USB +AUDIFONOS F9+ TERMO INTELIGENTE+SMARTWATCH OBSEQUIO 🎁",
-   "handle": "🎁combo-maletin-impermeable-usb-audifonos-f9-termo-inteligente-smartwatch-obsequio-🎁",
-   "precio": 79900.0,
-   "disponible": true,
-   "creado": "2026-05-29",
-   "publicado": "2026-05-29",
-   "actualizado": "2026-11-27",
-   "tipo": "Tecnologia",
-   "imagen": "https://cdn.shopify.com/s/files/1/0839/9110/1759/files/PORTADAS-3.png"
   },
   {
    "id": 10309922652479,
@@ -118,57 +34,9 @@
    "disponible": true,
    "creado": "2026-04-03",
    "publicado": "2026-04-03",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "Tecnologia",
-   "imagen": "https://cdn.shopify.com/s/files/1/0839/9110/1759/files/1_SOWI_PROYECTOR.png"
-  },
-  {
-   "id": 10269152608575,
-   "titulo": "✂️ Kit de Barbería 9 en 1: Máquina de Corte + Afeitadora 3 en 1 + Accesorios",
-   "handle": "😍kit-completo-de-barberia-9-en-1-maquina-afeitadora-3-en-1-accesorios✅",
-   "precio": 79700.0,
-   "disponible": true,
-   "creado": "2026-03-07",
-   "publicado": "2026-03-07",
-   "actualizado": "2026-11-27",
-   "tipo": "General",
-   "imagen": "https://cdn.shopify.com/s/files/1/0839/9110/1759/files/PORTADA-F9-MALETA-18.png"
-  },
-  {
-   "id": 10196219953471,
-   "titulo": "🚀 Pack 3 en 1 de alta calidad   Mochila + Bolso + Cartuchera de obsequio🎁",
-   "handle": "🚀-pack-ultimate-mochila-3-en-1-de-alta-calidad-mochila-bolso-cartuchera",
-   "precio": 89000.0,
-   "disponible": true,
-   "creado": "2026-01-05",
-   "publicado": "2026-01-05",
-   "actualizado": "2026-11-27",
-   "tipo": "",
-   "imagen": "https://cdn.shopify.com/s/files/1/0839/9110/1759/files/2_46034dd4-51b2-47fe-bd43-f170a7ad008e.png"
-  },
-  {
-   "id": 10191997403455,
-   "titulo": "✅Combo Bienestar 3 en 1 – Calor y Masaje para el Confort Diario🫶",
-   "handle": "✅combo-bienestar-3-en-1-calor-y-masaje-para-el-confort-diario",
-   "precio": 59000.0,
-   "disponible": true,
-   "creado": "2025-12-29",
-   "publicado": "2025-12-29",
-   "actualizado": "2026-11-27",
-   "tipo": "",
-   "imagen": "https://cdn.shopify.com/s/files/1/0839/9110/1759/files/PORTADA-F9-MALETA-1.png"
-  },
-  {
-   "id": 10191253242175,
-   "titulo": "Combo Bienestar 3 en 1 – Calor y Masaje para el Confort Diario🥰",
-   "handle": "combo-bienestar-3-en-1-calor-y-masaje-para-el-confort-diario",
-   "precio": 69900.0,
-   "disponible": true,
-   "creado": "2025-12-27",
-   "publicado": "2025-12-27",
-   "actualizado": "2026-11-27",
-   "tipo": "General",
-   "imagen": "https://cdn.shopify.com/s/files/1/0839/9110/1759/files/PORTADA-F9-MALETA_626d0c4d-6628-482b-9245-0e518ce7ca0e.png"
+   "imagen": "https://cdn.shopify.com/s/files/1/0839/9110/1759/files/1_PAGINA_PROYECTOR_LOGO_NEGRO.png"
   },
   {
    "id": 10172452340031,
@@ -178,69 +46,9 @@
    "disponible": true,
    "creado": "2025-12-01",
    "publicado": "2025-12-01",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "Tecnologia",
-   "imagen": "https://cdn.shopify.com/s/files/1/0839/9110/1759/files/PORTADA_CORREGIDA.png"
-  },
-  {
-   "id": 10154397303103,
-   "titulo": "11 EN 1 COMBO X2 RELOJES+AIRPODS+7 PULSOS😍",
-   "handle": "11-en-1-combo-x2-smartwacht-airpods-7pulsos😍",
-   "precio": 84700.0,
-   "disponible": true,
-   "creado": "2025-11-09",
-   "publicado": "2025-11-09",
-   "actualizado": "2026-11-27",
-   "tipo": "Tecnologia",
-   "imagen": "https://cdn.shopify.com/s/files/1/0839/9110/1759/files/1_COMBO_I80_MEKORAD_ae574a97-d503-4f01-8e4c-477edcd91da8.png"
-  },
-  {
-   "id": 10154167107903,
-   "titulo": "AVION INDESTRUCTIBLE 360 A CONTROL REMOTO✈️😍",
-   "handle": "avion-indestructible-360-a-control-remoto✈️😍",
-   "precio": 109000.0,
-   "disponible": true,
-   "creado": "2025-11-08",
-   "publicado": "2025-11-08",
-   "actualizado": "2026-11-27",
-   "tipo": "Navidad",
-   "imagen": "https://cdn.shopify.com/s/files/1/0839/9110/1759/files/1_92d9edf2-2ac4-44b5-8d0d-f16033e31535.png"
-  },
-  {
-   "id": 10124633375039,
-   "titulo": "COMBO CHARGE 5 +GO4 2 x 1 - SOLO POR TIEMPO LIMITADO!",
-   "handle": "combo-charge-5-go4-2-x-1-solo-por-tiempo-limitado",
-   "precio": 114000.0,
-   "disponible": true,
-   "creado": "2025-10-09",
-   "publicado": "2025-10-09",
-   "actualizado": "2026-11-27",
-   "tipo": "",
-   "imagen": "https://cdn.shopify.com/s/files/1/0839/9110/1759/files/COMBO-CHARGE-5-RI-11.png"
-  },
-  {
-   "id": 10115345023295,
-   "titulo": "PARLANTES CHARGE 5 2 x 1- SOLO POR TIEMPO LIMITADO! 😍",
-   "handle": "combo-parlantes-charge-5-👉2-x-1👈-solo-por-tiempo-limitado-😍",
-   "precio": 128700.0,
-   "disponible": true,
-   "creado": "2025-09-27",
-   "publicado": "2025-09-27",
-   "actualizado": "2026-11-27",
-   "tipo": "",
-   "imagen": "https://cdn.shopify.com/s/files/1/0839/9110/1759/files/COMBO-CHARGE-5-RI-7.png"
-  },
-  {
-   "id": 10049289814335,
-   "titulo": "COMBO ULTRA (10 EN 1)+AIRPODS+8 CORREAS+PROTECTOR GRATIS.🎁",
-   "handle": "combo-ultra-10-en-1-airpods-8-correas-protector-gratis-🎁",
-   "precio": 64700.0,
-   "disponible": true,
-   "creado": "2025-08-04",
-   "publicado": "2025-08-04",
-   "actualizado": "2026-11-27",
-   "tipo": "Tecnologia",
-   "imagen": "https://cdn.shopify.com/s/files/1/0839/9110/1759/files/PORTADAS-13.png"
+   "imagen": "https://cdn.shopify.com/s/files/1/0839/9110/1759/files/PAGINA_COMBO_M58_SOWI1111.png"
   },
   {
    "id": 9984048922943,
@@ -250,69 +58,9 @@
    "disponible": true,
    "creado": "2025-05-17",
    "publicado": "2025-05-17",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "Tecnologia",
-   "imagen": "https://cdn.shopify.com/s/files/1/0839/9110/1759/files/PORTADAS_COMBO_X8_af122d95-c3bc-4b85-8264-e66df1e4e51f.png"
-  },
-  {
-   "id": 9965472219455,
-   "titulo": "COMBO CHARGE 5 2 x 1 - SOLO POR TIEMPO LIMITADO! 🎁♥️",
-   "handle": "combo-charge-5-2-x-1-solo-por-tiempo-limitado-🎁♥️",
-   "precio": 164300.0,
-   "disponible": true,
-   "creado": "2025-04-27",
-   "publicado": "2025-04-27",
-   "actualizado": "2026-11-27",
-   "tipo": "",
-   "imagen": "https://cdn.shopify.com/s/files/1/0839/9110/1759/files/COMBO-CHARGE-5-RI-4.png"
-  },
-  {
-   "id": 9946551746879,
-   "titulo": "🎁PACK, RIÑONERA IMPERMEABLE USB +AUDIFONOS F9+ TERMO INTELIGENTE+SMARTWATCH OBSEQUIO. 🎁",
-   "handle": "combo-rinonera-impermeable-usb-audifonosf9-termo-inteligente-smartwatch-obsequio-🎁",
-   "precio": 107300.0,
-   "disponible": true,
-   "creado": "2025-04-10",
-   "publicado": "2025-04-10",
-   "actualizado": "2026-11-27",
-   "tipo": "Tecnologia",
-   "imagen": "https://cdn.shopify.com/s/files/1/0839/9110/1759/files/MALETIN-10-14.png"
-  },
-  {
-   "id": 9913968329023,
-   "titulo": "🎁COMBO MALETIN IMPERMEABLE USB +AUDIFONOS F9+ TERMO INTELIGENTE+SMARTWATCH OBSEQUIO. 🎁",
-   "handle": "combo-maletin-impermeable-usb-audifonosf9-m10-termo-inteligente-smartwatch-obsequio-🎁",
-   "precio": 99000.0,
-   "disponible": true,
-   "creado": "2025-03-11",
-   "publicado": "2025-03-11",
-   "actualizado": "2026-11-27",
-   "tipo": "Tecnologia",
-   "imagen": "https://cdn.shopify.com/s/files/1/0839/9110/1759/files/PORTADAS-12.png"
-  },
-  {
-   "id": 9859778642239,
-   "titulo": "Lonchera electrica portatil+Licuadora electrica portatil Max 😍🚨",
-   "handle": "combo-lonchera-multiusos-licuadora-max",
-   "precio": 69900.0,
-   "disponible": true,
-   "creado": "2025-01-19",
-   "publicado": "2025-01-19",
-   "actualizado": "2026-11-27",
-   "tipo": "Cocina",
-   "imagen": "https://cdn.shopify.com/s/files/1/0839/9110/1759/files/9_819f7317-9a7d-4108-9d56-6f960169b238.png"
-  },
-  {
-   "id": 9804130550079,
-   "titulo": "Combo 2 en 1 Diadema Max 9 😍✅🚨",
-   "handle": "combo-2-en-1-diadema-max-9-😍✅🚨",
-   "precio": 59900.0,
-   "disponible": true,
-   "creado": "2024-11-27",
-   "publicado": "2024-11-27",
-   "actualizado": "2026-11-27",
-   "tipo": "Tecnologia",
-   "imagen": "https://cdn.shopify.com/s/files/1/0839/9110/1759/files/Copia-de-MALETIN-Y68-2.png"
+   "imagen": "https://cdn.shopify.com/s/files/1/0839/9110/1759/files/PORTADAS_PAGINA_COMBO_X8_UNIQUE.png"
   },
   {
    "id": 9760728219967,
@@ -322,33 +70,9 @@
    "disponible": true,
    "creado": "2024-10-25",
    "publicado": "2024-10-25",
-   "actualizado": "2026-11-27",
+   "actualizado": "2026-11-28",
    "tipo": "General",
-   "imagen": "https://cdn.shopify.com/s/files/1/0839/9110/1759/files/1_COMBO_JBL_ACTUALIZADO_58f50330-ea94-4c83-b6fb-8e839142889b.png"
-  },
-  {
-   "id": 9740724076863,
-   "titulo": "COMBO ULTRA (11 EN 1)+AIRPODS+8 CORREAS+PROTECTOR GRATIS 🎁",
-   "handle": "combo-ultra-18-11-en-1-airpods-8-correas-protector-gratis-🎁",
-   "precio": 98700.0,
-   "disponible": true,
-   "creado": "2024-10-08",
-   "publicado": "2024-10-08",
-   "actualizado": "2026-11-27",
-   "tipo": "Tecnologia",
-   "imagen": "https://cdn.shopify.com/s/files/1/0839/9110/1759/files/2_f50deb5b-d058-4e3f-94c9-3e657f84da8c.png"
-  },
-  {
-   "id": 9275805499711,
-   "titulo": "⚡ Combo4 en 1🎧🎒 Termo + Diadema + Maleta usb  + Reloj Y68 obsequio 🎁",
-   "handle": "super-combo-maletin-impermeable-carga-usb-termo-inteligente-diadema-max-p9🎁®",
-   "precio": 89700.0,
-   "disponible": true,
-   "creado": "2024-04-05",
-   "publicado": "2024-04-05",
-   "actualizado": "2026-11-27",
-   "tipo": "Tecnologia",
-   "imagen": "https://cdn.shopify.com/s/files/1/0839/9110/1759/files/PORTADA-F9-MALETA-_16.png"
+   "imagen": "https://cdn.shopify.com/s/files/1/0839/9110/1759/files/17_PAGINA_PARLANTE_RINONERA_RELOJ.png"
   }
  ]
 }
